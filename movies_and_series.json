@@ -3708,26 +3708,6 @@
         "link": "https://pluto.tv/latam/on-demand/movies/6310f5f7bc1f1600132c311f/details"
     },
     {
-        "id": "63179ceabc1f1600132f5ec0",
-        "name": "The Four 3",
-        "description": "Un escuadrón de élite sale a resolver el misterio del emperador Huizong, desaparecido tras un atentado contra su vida.",
-        "duration": 7560000,
-        "genere": "Action & Adventure",
-        "type": "movie",
-        "category": "Cine Acción",
-        "link": "https://pluto.tv/latam/on-demand/movies/63179ceabc1f1600132f5ec0/details"
-    },
-    {
-        "id": "63179ceabc1f1600132f5ec0",
-        "name": "The Four 3",
-        "description": "Un escuadrón de élite sale a resolver el misterio del emperador Huizong, desaparecido tras un atentado contra su vida.",
-        "duration": 7560000,
-        "genere": "Action & Adventure",
-        "type": "movie",
-        "category": "Cine Acción",
-        "link": "https://pluto.tv/latam/on-demand/movies/63179ceabc1f1600132f5ec0/details"
-    },
-    {
         "id": "6310f48bd1f9a40013b7c70c",
         "name": "Samurai X 2",
         "description": "Kenshin Himura se enfrenta al malvado Makoto Shishio, que intenta derrocar al gobierno Meiji. El destino del país pende de un hilo cuando Kenshin Himura toma la espada que prometió no volver a desenvainar.",
@@ -3806,6 +3786,26 @@
         "type": "movie",
         "category": "Cine Acción",
         "link": "https://pluto.tv/latam/on-demand/movies/62cc67fa18de52001378c2fa/details"
+    },
+    {
+        "id": "63179ceabc1f1600132f5ec0",
+        "name": "The Four 3",
+        "description": "Un escuadrón de élite sale a resolver el misterio del emperador Huizong, desaparecido tras un atentado contra su vida.",
+        "duration": 7560000,
+        "genere": "Action & Adventure",
+        "type": "movie",
+        "category": "Cine Acción",
+        "link": "https://pluto.tv/latam/on-demand/movies/63179ceabc1f1600132f5ec0/details"
+    },
+    {
+        "id": "63179ceabc1f1600132f5ec0",
+        "name": "The Four 3",
+        "description": "Un escuadrón de élite sale a resolver el misterio del emperador Huizong, desaparecido tras un atentado contra su vida.",
+        "duration": 7560000,
+        "genere": "Action & Adventure",
+        "type": "movie",
+        "category": "Cine Acción",
+        "link": "https://pluto.tv/latam/on-demand/movies/63179ceabc1f1600132f5ec0/details"
     },
     {
         "id": "62cc2b869f6f4700149304c9",

@@ -1,5 +1,5 @@
 from playwright.sync_api import sync_playwright
-import requests
+from utils import custom_request, passage_data_to_json
 import json
 import time
 
@@ -38,15 +38,9 @@ def main():
 
     jwt = json_data['sessionToken']
 
-    headers = {
-        'Content-Type': 'application/json',
-        'Accept': 'application/json',
-        'Authorization': f'Bearer {jwt}'
-    }
-    
-    response = requests.get('https://service-vod.clusters.pluto.tv/v4/vod/categories?includeItems=true', headers=headers)
-    
-    data = response.json()
+    ## MOVIES AND SERIES REQUEST
+
+    movies_and_series_data = custom_request('https://service-vod.clusters.pluto.tv/v4/vod/categories?includeItems=true', jwt)
 
     series_category_id = "619043246d03190008131b89"
 
@@ -58,7 +52,7 @@ def main():
 
     movies_and_series = []
 
-    for category in data["categories"]:
+    for category in movies_and_series_data["categories"]:
         if any(main["categoryID"] in category_ids for main in category["mainCategories"]):
             category_name = category["name"]
             
@@ -89,14 +83,11 @@ def main():
                     }
                     movies_and_series.append(series_data)
     
-    with open('movies_and_series.json', 'w', encoding='utf-8') as json_file:
-        json.dump(movies_and_series, json_file, ensure_ascii=False ,indent=4)
+    passage_data_to_json('movies_and_series.json', movies_and_series)
 
     ## CHANNELS REQUEST LiveTV
 
-    channels_request = requests.get('https://service-channels.clusters.pluto.tv/v2/guide/channels', headers=headers)
-
-    channels_data = channels_request.json()
+    channels_data = custom_request('https://service-channels.clusters.pluto.tv/v2/guide/channels', jwt)
 
     channels = []
 
@@ -108,9 +99,7 @@ def main():
             "summary": channel['summary'],
         })
 
-    with open('channels.json', 'w', encoding='utf-8') as json_file:
-        json.dump(channels, json_file, ensure_ascii=False ,indent=4)
-
+    passage_data_to_json('channels.json', channels)
 
     print(f"Execution time: {time.time() - start_time:.2f} seconds") 
 
