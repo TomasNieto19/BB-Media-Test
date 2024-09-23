@@ -44,7 +44,7 @@ def main():
         'Authorization': f'Bearer {jwt}'
     }
     
-    response = requests.get('https://service-vod.clusters.pluto.tv/v4/vod/categories?includeItems=true&offset=1000&page=1', headers=headers)
+    response = requests.get('https://service-vod.clusters.pluto.tv/v4/vod/categories?includeItems=true', headers=headers)
     
     data = response.json()
 
@@ -52,10 +52,14 @@ def main():
 
     movies_category_id = "618da9791add6600071d68b0"
 
+    category_ids = {series_category_id, movies_category_id}
+
+    base_url = "https://pluto.tv/latam/on-demand"
+
     movies_and_series = []
 
     for category in data["categories"]:
-        if any(main["categoryID"] == series_category_id or main["categoryID"] == movies_category_id for main in category["mainCategories"]):
+        if any(main["categoryID"] in category_ids for main in category["mainCategories"]):
             category_name = category["name"]
             
             for item in category["items"]:
@@ -67,7 +71,8 @@ def main():
                         "duration": item["duration"],
                         "genere": item["genre"],
                         "type": item["type"],
-                        "category": category_name
+                        "category": category_name,
+                        "link": base_url + "/movies/" + item["_id"] + "/details",
                     }
                     movies_and_series.append(movie_data)
                 
@@ -79,18 +84,15 @@ def main():
                         "genre": item["genre"],
                         "type": item["type"],
                         "seasonsNumbers": item["seasonsNumbers"],
-                        "category": category_name
+                        "category": category_name,
+                        "link": base_url + "/series/" + item["_id"] + "/season/" + str(item["seasonsNumbers"][0]),
                     }
                     movies_and_series.append(series_data)
     
     with open('movies_and_series.json', 'w', encoding='utf-8') as json_file:
         json.dump(movies_and_series, json_file, ensure_ascii=False ,indent=4)
 
-
-
-    print(f"Execution time: {time.time() - start_time:.2f} seconds")
-
-
+    print(f"Execution time: {time.time() - start_time:.2f} seconds") 
 
 if __name__ == "__main__":
     main()
