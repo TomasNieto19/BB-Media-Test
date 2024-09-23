@@ -92,6 +92,26 @@ def main():
     with open('movies_and_series.json', 'w', encoding='utf-8') as json_file:
         json.dump(movies_and_series, json_file, ensure_ascii=False ,indent=4)
 
+    ## CHANNELS REQUEST LiveTV
+
+    channels_request = requests.get('https://service-channels.clusters.pluto.tv/v2/guide/channels', headers=headers)
+
+    channels_data = channels_request.json()
+
+    channels = []
+
+    for channel in channels_data['data']:
+        channels.append({
+            "id": channel['id'],
+            "name": channel['name'],
+            "number": channel['number'],
+            "summary": channel['summary'],
+        })
+
+    with open('channels.json', 'w', encoding='utf-8') as json_file:
+        json.dump(channels, json_file, ensure_ascii=False ,indent=4)
+
+
     print(f"Execution time: {time.time() - start_time:.2f} seconds") 
 
 if __name__ == "__main__":
