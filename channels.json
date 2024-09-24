@@ -1,87 +1,9 @@
 [
     {
-        "id": "5dcb62e63d4d8f0009f36881",
-        "name": "Pluto TV Cine Acción",
-        "number": 21,
-        "summary": "Pluto TV Cine Acción es imprescindible. Lo más extremo que se pueda filmar llega hasta tus pupilas para dilatarlas por completo y traspasar la pantalla. Respira hondo y prepárate bien porque serán 24 horas por día de adrenalina."
-    },
-    {
-        "id": "5dcdde78f080d900098550e4",
-        "name": "Pluto TV Cine Comedia",
-        "number": 33,
-        "summary": "Si la risa es la mejor medicina, Pluto TV Cine Comedia es la cura para todos tus males. Prepárate para reírte sin parar, mientras disfrutas de las películas de comedia más hilarantes, delirantes y disparatadas de la historia."
-    },
-    {
-        "id": "5dcddf1ed95e740009fef7ab",
-        "name": "Pluto TV Cine Terror",
-        "number": 48,
-        "summary": "Visita el único canal con los demonios, monstruos y zombies más aterradores en un solo lugar. Siente cómo las criaturas que no imaginarías ni en tus peores pesadillas persiguen tus talones."
-    },
-    {
-        "id": "5dcddfbdb7cf0e0009ae09ea",
-        "name": "Pluto TV Viajes",
-        "number": 1154,
-        "summary": "Los océanos más profundos, las montañas más altas o los destinos inimaginables están en Pluto TV Viajes, tu pasaje al asombro y a todas las emociones que te aguardan conociendo las culturas y los lugares realmente inspiradores de nuestro planeta."
-    },
-    {
-        "id": "5dcddfcb229eff00091b6bdf",
-        "name": "Pluto TV Cine Drama",
-        "number": 36,
-        "summary": "Descubre un canal para disfrutar desde melodramas basados en hechos de la vida real hasta las películas con los argumentos de mayor nivel narrativo. Romanticismo, tragedia, pasión. Descubre el drama en todas sus expresiones, en vivo las 24 horas."
-    },
-    {
-        "id": "5dcde0657444a40009cd2422",
-        "name": "Pluto TV Cocina",
-        "number": 1199,
-        "summary": "Te presentamos Pluto TV Cocina, un canal elaborado para los amantes del buen comer. Recetas creadas con amor, historias fascinantes, delicias exóticas, restaurantes de alta cocina y momentos únicos junto a los más exclusivos y premiados chefs."
-    },
-    {
-        "id": "5dcde07af1c85b0009b18651",
-        "name": "Pluto TV Deportes",
-        "number": 827,
-        "summary": "La dulce victoria y la amarga derrota conviven aquí, en Pluto TV Deportes. Un canal donde vivirás las emociones más intensas, verás a los mejores atletas, disfrutarás de excelentes análisis y te dejarás atrapar por las entrevistas más interesantes."
-    },
-    {
-        "id": "5dcde0cc2efd2700090b7ff4",
-        "name": "Pluto TV Novelas",
-        "number": 278,
-        "summary": "Te ofrecemos el catálogo más completo de novelas en tu idioma, gratis, para verlas cuando quieras y donde quieras.  Las novelas que te acompañan a lo largo del tiempo, las memorables. Las que te conmueven. Historias poderosas. Emotivas. Actuales."
-    },
-    {
-        "id": "5dcde1317578340009b751d0",
-        "name": "Pluto TV Series",
-        "number": 140,
-        "summary": "Pluto TV Series es una colección de las mejores series de suspenso y drama de la actualidad. Historias que no te permitirán despegarte de la pantalla y finales sorprendentes que te dejarán con ganas de ver más."
-    },
-    {
-        "id": "5dcde17bf6591d0009839e02",
-        "name": "Pluto TV Anime",
-        "number": 1251,
-        "summary": "La mejor animación oriental está en Pluto TV Anime. Con historias adultas, atrapantes y divertidas, acompañadas por una animación de excelente calidad. Descubre nuevas series o vuelve a ver los clásicos de los que te enamoraste."
-    },
-    {
-        "id": "5dcde197f6591d0009839e04",
-        "name": "Pluto TV Reality",
-        "number": 380,
-        "summary": "Cuando la realidad supera a la ficción, nada mejor que ponerle una cámara y grabarlo. Sumergete en el mundo de los realities las 24 horas del día. Programas creados para que no quieras dejar de verlos. Todo esto en Pluto TV Reality, las 24 horas del día."
-    },
-    {
-        "id": "5dcde27ffae9520009c0c75a",
-        "name": "Pluto TV Investiga",
-        "number": 578,
-        "summary": "¿Eres fanático de resolver los hechos más enigmáticos y misteriosos? Naciste para investigar, cuestionas todo, eres detallista y análitico. Todos tenemos algo de detective."
-    },
-    {
-        "id": "5dcde2ac4bc6c500094ab45b",
-        "name": "Pluto TV Junior",
-        "number": 1420,
-        "summary": "La diversión completa está en Pluto TV Junior, donde te esperan todas las aventuras de las series animadas y de acción en vivo, en un canal exclusivamente hecho para pasarla increíble en cualquier momento del día."
-    },
-    {
-        "id": "5dcde2f53449c50009b2b4dc",
-        "name": "Pluto TV Misterios",
-        "number": 545,
-        "summary": "Si eres fan de las teorías conspirativas, este canal es para ti.\nDescubre toda la verdad sobre los secretos mejor guardados en Pluto TV Misterios."
+        "id": "5e793a7cfbdf780007f7eb75",
+        "name": "Descubriendo Pluto TV",
+        "number": 1,
+        "summary": "Descubriendo Pluto TV"
     },
     {
         "id": "5dcde437229eff00091b6c30",
@@ -90,172 +12,10 @@
         "summary": "Si tu sueño es vivir en Hollywood y no puedes viajar, Pluto TV Cine Estelar tiene la solución para tu problema. Vas a pasar los 365 días del año viendo a las estrellas más grande del cine desde la comodidad de tu casa."
     },
     {
-        "id": "5dd6ab8056beb000091fc6b6",
-        "name": "Pluto TV Hogar",
-        "number": 1179,
-        "summary": "No importa donde vivamos, todos siempre soñamos con mudarnos a una casa increíble. En Pluto TV Hogar conocerás las más espectaculares. ¡Vas a querer quedarte a vivir en Pluto TV Hogar!"
-    },
-    {
-        "id": "5dd6d935d000120009bc1132",
-        "name": "Pluto TV  Competencias",
-        "number": 427,
-        "summary": "Preguntas y respuestas, emociones fuertes y miles de insectos caminando por tu cuerpo. Cultura general, destreza y viseras de animales servidas en bandeja. ¿Qué tanto sabes? ¿Cuanta suerte tienes? ¿que tan valiente eres?"
-    },
-    {
-        "id": "5dd6dae8ce788b0009eaf77b",
-        "name": "Pluto TV Kids",
-        "number": 1480,
-        "summary": "Todos tienen su espacio de fiesta en Pluto TV Kids. No importa si eres un niño o un niño de corazón, porque la mejor programación para toda la familia está aquí. Ingresa y disfruta las 24 horas, los 7 días de la semana."
-    },
-    {
-        "id": "5dd6dc7480e3550009133d4a",
-        "name": "Pluto TV Velocidad",
-        "number": 500,
-        "summary": "Pluto TV Velocidad es el canal para los amantes de los autos y la adrenalina. Con una programación dedicada a los fanáticos de los motores, abróchate el cinturón y prepárate para disfrutar de un viaje a toda velocidad."
-    },
-    {
-        "id": "5dd6ddb30a1d8a000908ed4c",
-        "name": "Pluto TV Cine Familia",
-        "number": 90,
-        "summary": "Pluto TV Cine Familia es el canal ideal para todos en casa. Tiene los mejores contenidos de Comedia, Animación, Cine de Entretenimiento y hasta Clásicos. Aquí la diversión y el entretenimiento familiar están asegurados todos los días del año."
-    },
-    {
-        "id": "5dd6de52b9914200091f047a",
-        "name": "Pluto TV Teen",
-        "number": 1370,
-        "summary": "A los adolescentes no les gusta pasar tiempo con adultos, ellos sólo quieren estar con chicos de su edad. Por es en Pluto TV Teen tenemos las mejores series pensadas para adolescentes y protagonizadas por…adolescentes."
-    },
-    {
-        "id": "5dd7ea2aeab5230009986735",
-        "name": "Pluto TV Cine Romance",
-        "number": 39,
-        "summary": "Hay personas que creen que el amor todo lo puede y que supera cualquier obstáculo. Ellos se merecían un canal propio. En Pluto TV Cine Romance vas a disfrutar de las películas más entretenidas y románticas, un canal del que te vas a enamorar."
-    },
-    {
-        "id": "5dd834c66fe2ca0009303b8d",
-        "name": "Pluto TV Animales",
-        "number": 483,
-        "summary": "Todas las maravillas que nos regala el mundo animal están en PlutoTV Animales, el canal donde te pueden rugir, ladrar o llenar de ternura para siempre sorprenderte y mejorar tu día. Desde los más salvajes hasta los más amigables: Pluto TV Animales."
-    },
-    {
-        "id": "5dd8364ea1d6780009929902",
-        "name": "Pluto TV Ciencia",
-        "number": 572,
-        "summary": "Los sucesos científicos más asombrosos, entrevistas a los más reconocidos personajes de la ciencia, experimentos y mucho más, las 24 hs, los 7 días de la semana."
-    },
-    {
-        "id": "5dd837642c6e9300098ad484",
-        "name": "Pluto TV Series Latinas",
-        "number": 195,
-        "summary": "Las mejores series en español están disponibles 24/7 en Pluto TV Series Latinas para que puedas disfrutarlas en tu idioma. Aquí podrás entretenerte, emocionarte y sorprenderte con éxitos como Nada Personal o La Fiscal de Hierro."
-    },
-    {
-        "id": "5dd85eac039bba0009e86d1d",
-        "name": "Pluto TV Naturaleza",
-        "number": 477,
-        "summary": "Explora los lugares más impactantes de nuestro planeta. Sumérgete en los más profundos océanos, escala las montañas más altas, recorre impenetrables selvas y vastos desiertos, emprende un viaje infinito con Pluto TV Naturaleza."
-    },
-    {
-        "id": "5ddc266f80e3550009136843",
-        "name": "Pluto TV Aventura",
-        "number": 489,
-        "summary": "Llega Pluto TV Aventura, la dosis de adrenalina que estabas buscando. Vive a base de pura acción las 24 horas del día, con los mejores programas de cacerías, persecuciones y mucho más. Sólo lo tendrás en Pluto TV Aventura."
-    },
-    {
-        "id": "5ddc4e8bcbb9010009b4e84f",
-        "name": "Pluto TV Cine Suspenso",
-        "number": 42,
-        "summary": "Tómalo con calma y muévete sigilosamente, estás viendo Pluto TV Cine Suspenso donde cualquier movimiento en falso podría desatar una situación estremecedora. Asesinos acechando en plena noche y gangsters dispuestos a llevarte al límite de tu asiento."
-    },
-    {
-        "id": "5ddd7c348520b40009c347e2",
-        "name": "Nickelodeon Clásico",
-        "number": 1440,
-        "summary": "Bienvenido a Nickelodeon Clásico donde podrás ver tus shows clásicos favoritos como ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y mucho más! Todo en  Nickelodeon Clásico."
-    },
-    {
-        "id": "5ddd7cb2cbb9010009b4fe32",
-        "name": "Nick Jr. Club",
-        "number": 1402,
-        "summary": "Bienvenido a Nick Jr Club donde los más pequeños encontrarán a sus amigos favoritos. Desde clásicos como Pistas de Blue, Mascotas Maravillas, Ni Hao Kailan y muchos éxitos más. Todo en los shows de Nick Jr Club."
-    },
-    {
-        "id": "5de5758e1a30dc00094fcd6c",
-        "name": "Pluto TV Historia",
-        "number": 563,
-        "summary": "El pasado está lleno de acontecimientos que marcan nuestro presente, y para conocerlos a fondo está Pluto TV Historia, la mejor forma de recorrer esos grandes momentos de la humanidad a través de programas y documentales hechos para educar y entretener."
-    },
-    {
-        "id": "5de802659167b10009e7deba",
-        "name": "Pluto TV Series Retro",
-        "number": 203,
-        "summary": "En Pluto TV Series Retro vas a poder divertirte y entretenerte con las mejores sitcoms de la historia de la televisión y éxitos clásicos como Who ìs the boss?, The Three Stooges, Popeye the Sailor and Romance of Betty Boop."
-    },
-    {
-        "id": "5de91b7ea86ee60009d89e75",
-        "name": "MTV Reality",
-        "number": 387,
-        "summary": "Los reality shows de MTV marcaron una época, manteniendo a generaciones enteras de jóvenes pegadas a la pantalla, con un estilo propio que no puedes dejar de verlos. Aquí, la vida de las personas se convierte en drama y emoción."
-    },
-    {
-        "id": "5de91cf02fc07c0009910465",
-        "name": "Telefe Hits",
-        "number": 1065,
-        "summary": "Telefe Hits es tu destino obligado para encontrar y revivir las telenovelas más populares, los mejores dramas y las comedias románticas más divertidas de Telefe, el canal de televisión abierta líder en audiencia de Argentina."
-    },
-    {
-        "id": "5defde6d6c07b50009cf0757",
-        "name": "Pluto TV  Nuestro Cine",
-        "number": 66,
-        "summary": "Viajar por mundos remotos, a millones de años luz de nuestra galaxia. Enfrentarnos a una amenaza mundial. Volver a revivir la historia. Saltar de un camión en movimiento a otro. Ser un samurai. Un súper héroe. Todo lo que más te gusta del cine."
-    },
-    {
-        "id": "5df265697ec3510009df1ef0",
-        "name": "Pluto TV Vida Real",
-        "number": 515,
-        "summary": "El mundo está lleno de dificultades y momentos tensos por enfrentar a diario, y todo queda registrado en Pluto TV Vida Real, un verdadero huracán de misterios médicos, rescates críticos o seguridad fronteriza."
-    },
-    {
-        "id": "5dfcde52d28b09000a42d7a2",
-        "name": "Pluto TV A La Mexicana",
-        "number": 70,
-        "summary": "Pluto TV A La Mexicana te acerca a los actores más icónicos de México. Un viaje que empieza por la llamada Época de Oro y llega hasta la actualidad. No te pierdas los mejores géneros y a los actores de cada década, como María Félix, Silvia Pinal, Antonio"
-    },
-    {
-        "id": "5e3ddbd27091820009f86dd9",
-        "name": "MasterChef",
-        "number": 435,
-        "summary": "A todos nos gustan las realidades y los programas de cocina, en MasterChef combinamos los dos. Los mejores chefs se enfrentan entre si y al más exigente jurado intentando llevarse el premio de miles de dólares y el título de MásterChef."
-    },
-    {
-        "id": "5e46e64dc73db400094b5f0b",
-        "name": "Minuto Para Ganar",
-        "number": 447,
-        "summary": "En 60 segundos se pueden hacer muy pocas cosas, excepto que sea uno de los participantes de este programa. En PlutoTv Minuto para Ganar, mira a los concursantes intentando superar pruebas de un minuto para poder llevarse miles de dólares."
-    },
-    {
-        "id": "5e67d41b93312100076f3fca",
-        "name": "Los archivos del FBI",
-        "number": 588,
-        "summary": "Todos los días, a toda hora y en los lugares más variados... hay mucho qué descubrir. Los Archivos del FBI llega con su gran poderío al servicio de la investigación."
-    },
-    {
-        "id": "5e6a4d875d7ccf0007cc2cf1",
-        "name": "Pluto TV Animé Acción",
-        "number": 1254,
-        "summary": "Es hora de que el público más grande tenga su recompensa: PLUTO TV ANIME ACCIÓN, el canal para los que quieren revivir los clásicos favoritos del Dark Animé como Death Note, Naruto y Bleach. A prepararse porque la acción de estas historias comienza aquí."
-    },
-    {
-        "id": "5e793a7cfbdf780007f7eb75",
-        "name": "Descubriendo Pluto TV",
-        "number": 1,
-        "summary": "Descubriendo Pluto TV"
-    },
-    {
-        "id": "5e8397936791b30007ebb5a7",
-        "name": "Pluto TV Humor",
-        "number": 994,
-        "summary": "Comienza a despedirte del control remoto, porque con Pluto TV Humor te vas a descontrolar. Las mejores bromas, bloopers y situaciones divertidas en un canal donde el humor explota a cada instante las 24 horas."
+        "id": "5dcb62e63d4d8f0009f36881",
+        "name": "Pluto TV Cine Acción",
+        "number": 21,
+        "summary": "Pluto TV Cine Acción es imprescindible. Lo más extremo que se pueda filmar llega hasta tus pupilas para dilatarlas por completo y traspasar la pantalla. Respira hondo y prepárate bien porque serán 24 horas por día de adrenalina."
     },
     {
         "id": "5e972a21ad709d00074195ba",
@@ -264,370 +24,34 @@
         "summary": "Donde ponen el ojo ponen la bala, o el puño, o el pie. Los héroes de acción más grandes de todos los tiempos están juntos y en un mismo canal: Pluto TV Estrellas de Acción. Prepárate para pasar 24 horas continuas llenas de adrenalina."
     },
     {
-        "id": "5e98a911c881310007d7aae2",
-        "name": "MTV Ridiculousness",
-        "number": 393,
-        "summary": "Quien haya hecho una buena broma, sabrá lo que significa MTV Ridiculousness, el canal donde las víctimas y los más bromistas conviven en perfecta armonía mientras miles de testigos no paran de reírse."
-    },
-    {
-        "id": "5e98b0447665f200078caded",
-        "name": "Pluto TV Peleas",
-        "number": 850,
-        "summary": "Las artes marciales mixtas están en Pluto TV Peleas. Todo el contenido que los fanáticos de las luchas quieren ver. El Combate Américas, Impact Wrestling, Hard Knocks Fighting y los torneos más importantes del circuito en un solo canal. Pluto TV Peleas."
-    },
-    {
-        "id": "5ea71d48af1d0b0007d837f4",
-        "name": "The New Detectives",
-        "number": 597,
-        "summary": "El trabajo de los forenses y expertos más distinguidos en criminalística mundial, reunido en un solo canal. Disfruta de las investigaciones más apasionantes y los casos más renombrados, en The New Detectives"
-    },
-    {
-        "id": "5ea7215005d66d0007e8128a",
-        "name": "Rugrats",
-        "number": 1445,
-        "summary": "La amistad, los sueños y las ganas de seguir descubriendo el mundo en Rugrats."
-    },
-    {
-        "id": "5ebac49ce4dc8b00078b23bc",
-        "name": "Babyfirst",
-        "number": 1415,
-        "summary": "Los primeros pasos de tu bebé son más seguros y divertidos con BabyFirst, el canal donde tus hijos aprenden lo básico mediante juegos, colores, números, arte, música y muchas actividades para disfrutar en familia."
-    },
-    {
-        "id": "5ebacbcae43a6d000787b88e",
-        "name": "The Pet Collective",
-        "number": 1014,
-        "summary": "Animales y mascotas. Ciencia y amor. Emoción y humor. Todo eso y mucho más en The Pet Collective, el canal dedicado a los mejores amigos del planeta. Disfruta de los memes más divertidos y los momentos más emotivos protagonizados por animales."
-    },
-    {
-        "id": "5ebaccf1734aaf0007142c86",
-        "name": "FailArmy",
-        "number": 1009,
-        "summary": "Sumérgete en un mundo de carcajadas, sobresaltos y fallas, fallas y más fallas. La mejor programación  con los videos más graciosos del mundo. Una alta dosis de accidentes, bloopers y momentos fallidos que te harán morir de risa, en Fail Army."
-    },
-    {
-        "id": "5ed6828192e8b3000743ef61",
-        "name": "Wipe Out",
-        "number": 455,
-        "summary": "WIPEOUT. La carrera de obstáculos más divertida donde verás las caídas más graciosas de la televisión. Disfruta de una competencia llena de juegos de equilibrio, fuerza, y velocidad en la que los participantes ponen a prueba todas sus destrezas."
-    },
-    {
-        "id": "5ee92e72fb286e0007285fec",
-        "name": "Naruto",
-        "number": 1259,
-        "summary": "Acompaña a Naruto en sus increíbles aventuras camino a convertirse en el gran Hokage de su aldea. Gratis para ti un canal donde las 24 horas están dedicadas al mítico ninja. Disfruta de Naruto en Pluto TV."
-    },
-    {
-        "id": "5efb8c19b2678b000780d032",
-        "name": "Archivos Forenses",
-        "number": 593,
-        "summary": "Misterios sin develar, casos que buscan una resolución. Evidencias y entrevistas que ayudan a resolver historias reales, accidentes y hasta enfermedades. Los casos reales más impactantes están en el canal Archivos Forenses."
-    },
-    {
-        "id": "5f230e416b68ff00075b0139",
-        "name": "Misterios Medicos",
-        "number": 542,
-        "summary": "En Pluto TV Misterios Médicos conocerás los casos más extraños y las cirugías más impactantes dadas bajo las condiciones más adversas, raras y controversiales."
-    },
-    {
-        "id": "5f23102d5e239d00074b092a",
-        "name": "Empeños a lo bestia",
-        "number": 524,
-        "summary": "En este canal pasarás las 24 horas viendo el día a día de una verdadera casa de empeños que lleva más de 3 generaciones haciendo negocios. Pluto TV Empeños a lo bestia, donde el cliente nunca tiene la razón."
-    },
-    {
-        "id": "5f2817d3d7573a00080f9175",
-        "name": "Pluto TV Sci-Fi",
-        "number": 51,
-        "summary": "Desde el espacio exterior llega una señal que transmite las 24hs, todos los días de la semana. Esa señal es Pluto TV SCI-FI. Las mejores películas y series de ciencia ficción y fantasía de la galaxia para explorar los confines del espacio."
-    },
-    {
-        "id": "5f29ada4bdaebd000708d49d",
-        "name": "Barney",
-        "number": 1425,
-        "summary": "En su mundo se vuela sin alas, porque la imaginación es el recurso más poderoso. Barney y sus amigos te llevarán \na descubrir que la fantasía está esperando en mil aventuras y experiencias llenas de diversión, ¡y no te puedes quedar fuera!"
-    },
-    {
-        "id": "5f4d3696d938c900072679fd",
-        "name": "Historias de Ultratumba",
-        "number": 550,
-        "summary": "Hechos espeluznantes al margen de la realidad, puertas que se abren hacia lo desconocido, 24 hrs de experiencias paranormales. Todo esto y mucho más en Historias de Ultratumba, en Pluto TV."
-    },
-    {
-        "id": "5f4d3d06fb60d8000781fce8",
-        "name": "El Reino Infantil",
-        "number": 1435,
-        "summary": "El Reino Infantil es el canal donde los más pequeños de la casa podrán disfrutar de las mejores canciones, así como de sus personajes favoritos, todo esto las 24hrs del día."
-    },
-    {
-        "id": "5f4fed840a2764000720d966",
-        "name": "Paisajes por Stingray",
-        "number": 480,
-        "summary": "En Pluto TV Paisajes por Stingray desconecta de las complicaciones de tu entorno y conecta con la belleza de la naturaleza. Disfruta en este canal de hermosas vistas de paraísos tropicales e imágenes deslumbrantes acompañadas de una música fondo relajante"
-    },
-    {
-        "id": "5f610042272f68000867685b",
-        "name": "Misterios sin Resolver",
-        "number": 601,
-        "summary": "Robert Stack presenta “Misterios sin resolver” la serie que perturbará todos tus sentidos con los casos más espeluznantes y misteriosos de la historia. Disfruta -si puedes- todos los días este canal con 24 hrs continuas de Misterios sin resolver."
-    },
-    {
-        "id": "5f85ca40eda1b10007b967cd",
-        "name": "Conciertos por Stingray",
-        "number": 1520,
-        "summary": "Llegaron los conciertos y documentales musicales a Pluto TV con las estrellas de hoy y las leyendas de siempre como Queen, Bruce Springsteen, Enrique Iglesias, Imagine Dragons, Katy Perry y muchos más, solo en Pluto TV Conciertos por Stingray."
-    },
-    {
-        "id": "5f85cf621d6d2200079f1de0",
-        "name": "Karaoke por Stingray",
-        "number": 1525,
-        "summary": "En este canal canta todas tus canciones favoritas, desde los clásicos de ayer hasta los éxitos de hoy. ¡Qué comience tu fiesta de karaoke!"
-    },
-    {
-        "id": "5f998c1fc54853000797bacd",
-        "name": "Tastemade",
-        "number": 1209,
-        "summary": "Un canal con contenido premium de comida, viajes, hogar y diseño de todo el mundo. Vas a poder disfrutar desde los documentales más originales hasta las recetas más clásicas las 24 horas del día, los 7 días de la semana."
-    },
-    {
-        "id": "5f9992c685a2a80007fa414a",
-        "name": "Dog el cazarrecompensas",
-        "number": 521,
-        "summary": "Los fugitivos ya no están tranquilos porque llega Dog el Cazarrecompensas. 24 horas con las mejores cacerías en busca de los prófugos más peligrosos."
-    },
-    {
-        "id": "5f9996533c9de3000759ccb5",
-        "name": "Las Pistas de Blue",
-        "number": 1405,
-        "summary": "¡Blue tiene mucha energía y quiere jugar contigo! Por eso Pluto TV Pistas de Blue tiene una programación especial con la perrita azul que divierte a las personas de todos los tamaños y edades. Música, juegos y mucha aventura con Blue y sus amigos."
-    },
-    {
-        "id": "5f99a772c54853000797bf18",
-        "name": "Lucha Libre AAA",
-        "number": 855,
-        "summary": "¡Mira la lucha mexicana de alto octanaje 24/7 en Lucha Libre AAA! Máscaras de colores, movimientos de alto vuelo y emoción internacional te asaltan con fuerza y rapidez en este canal salvaje y emocionante."
-    },
-    {
-        "id": "5fab088b3279760007d4e4fd",
-        "name": "MTV Pluto TV",
-        "number": 385,
-        "summary": "Dale Play a la mejor música, los desmadres, las pedas y al romance. MTV, el canal con todo lo que amas, ahora en Pluto TV."
-    },
-    {
-        "id": "5fab09a8749b1a00077d35d2",
-        "name": "Nick Teen",
-        "number": 1352,
-        "summary": "Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca."
-    },
-    {
-        "id": "5fcea93ffcf94500071c4b2f",
-        "name": "Kenan y Kel",
-        "number": 1365,
-        "summary": "Kenan sueña con hacerse rico y para eso siempre pide la ayuda de Kel. Pero en lugar de ayudarlo, él siempre complica las cosas. \nEn este canal disfruta de las alocadas aventuras de Kenan y Kel."
-    },
-    {
-        "id": "5fceaab478f2af00080ff51f",
-        "name": "Yu-Gi-Oh",
-        "number": 1269,
-        "summary": "Un misterioso rompecabezas va a cambiar para siempre la vida de Yugi y lo llevará a un mundo repleto de magia, secretos y enfrentamientos.\nYU-GI-OH llegó a PlutoTV. Para que lo disfrutes todo el día."
-    },
-    {
-        "id": "5ff3934600d4c7000733ff49",
-        "name": "Pluto TV E-Sports",
-        "number": 1324,
-        "summary": "Pluto TV E-Sports te muestra todo lo que quieres saber del mundo del gaming. Con tutoriales, críticas, análisis, noticias y shows dedicados a los juegos más grandes del momento, y a los hits del pasado."
-    },
-    {
-        "id": "5ff4b9ccf938f8000779eb99",
-        "name": "One Piece",
-        "number": 1284,
-        "summary": "One Piece, un canal para disfrutar las fascinantes historias de piratas y amistad, donde un grupo de aventureros viaja a través de los océanos y se unen para lograr una misión: Encontrar el mayor de los tesoros. Disfrútalo en Pluto TV."
-    },
-    {
-        "id": "5ff608e60e2996000768c366",
-        "name": "Tokusato",
-        "number": 1294,
-        "summary": "Para los nostálgicos de los grandes clásicos de acción y aventura japonés. Heroes y villanos, en las icónicas series japonesas que marcaron historia.\nHazte fan de Tokusato, en Pluto TV."
-    },
-    {
-        "id": "5ffcc21a432945000762d06b",
-        "name": "Comedy Central Pluto TV",
-        "number": 999,
-        "summary": "Comedy Central, la marca #1 de comedia en el mundo, también es parte de Pluto TV. Si tienes ganas de reír ya no te quedan excusas.\nDisfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duelo de comediantes y mucho más."
-    },
-    {
-        "id": "5ffe17e3d765170007c3a4fe",
-        "name": "Pluto TV España",
-        "number": 190,
-        "summary": "Las mejores películas y series de España llegan a Pluto TV, y las puedes disfrutar todas juntas en un solo canal: Pluto TV España. Ríete, llora, enamórate y sufre con las mejores ficciones de España."
-    },
-    {
-        "id": "60142258a54aeb0007751c15",
-        "name": "Pluto TV Retro Cartoons",
-        "number": 265,
-        "summary": "Pluto TV Retro Cartoons: Enciende la máquina del tiempo y viaja a la época de las mejores animaciones. Vuelve a ser un niño mirando las caricaturas que marcaron tu vida: Popeye, Betty Boop, Flash Gordon y mucho más. Solo en Pluto TV."
-    },
-    {
-        "id": "6047fabfce6e8e00070bcc9f",
-        "name": "MTV Biggest Pop",
-        "number": 1502,
-        "summary": "¡Checa esto! MTV BIGGEST POP es tu destino para la mejor música, las más brillantes estrellas y los hits más bailables de la actualidad. Desde Drake y Miley, pasando por Beyoncé y Gaga."
-    },
-    {
-        "id": "6047fd723b5bd00007de7092",
-        "name": "MTV Spankin' New",
-        "number": 1505,
-        "summary": "¡Lo escuchaste primero aquí!  MTV SPANKIN’ NEW es el lugar para descubrir nuevos artistas antes de que se vuelvan estrellas. Las playlists con lo mejor, y lo más novedosos del Pop, Hip-Hop y de las bandas alternativas."
-    },
-    {
-        "id": "604bdf4e6d0abc0007ba77ad",
-        "name": "Sin Tetas No Hay Paraíso",
-        "number": 328,
-        "summary": "En Sin Tetas No Hay Paraíso vas a conocer la historia de Catalina, una joven que cegada por su ambición y las malas influencias, llegará a un paraíso al que jamás desearía haber entrado. Disfruta de toda la serie Gratis, en Pluto TV."
-    },
-    {
-        "id": "609059dc63be6e0007b4eca6",
-        "name": "Pluto TV Cine Clásico",
-        "number": 87,
-        "summary": "Vuelve a la era dorada del cine con Pluto TV Cine Clásico. Dramas, comedias, y emocionantes thrillers premiados, protagonizados por tus estrellas de cine favoritas."
-    },
-    {
-        "id": "609062295c2b8f0007199e7a",
-        "name": "Pluto TV Recetas",
-        "number": 1204,
-        "summary": "Si te gusta cocinar, este canal es para ti. En PlutoTv Recetas aprenderás a realizar los más deliciosos y tentadores platos en recetas muy fáciles de seguir. Aprende nuevas técnicas y secretos para deslumbrar a todos, con los manjares más espectaculares."
-    },
-    {
-        "id": "6095ad97351eb0000754c1e6",
-        "name": "Hells Kitchen",
-        "number": 443,
-        "summary": "Un grupo de aspirantes compiten para ser el mejor chef. Para lograrlo, deberán superar las pruebas más difíciles, bajo la atenta mirada del exigente chef Gordon Ramsay. Las cosas se van a poner muy calientes en la cocina de PlutoTv Hells Kitchen."
-    },
-    {
-        "id": "6099600015e88c0007ecda25",
-        "name": "Boom",
-        "number": 451,
-        "summary": "Un explosivo show de preguntas y respuestas que combina el saber con el suspenso y el drama de las películas de acción. En este juego cada pregunta está representada con una bomba y cada respuesta incorrecta es un cable que deben cortar."
-    },
-    {
-        "id": "609ae5cd48d3200007b0a98e",
-        "name": "Comedy Central South Park",
-        "number": 929,
-        "summary": "South Park la icónica serie animada que marcó un antes y un después en la TV, llega a Pluto TV. Para que te rías a carcajadas con Kyle, Stan, Kenny y Cartman. Disfruta de los legendarios episodios que marcaron una era, gratis en Comedy Central South Park."
-    },
-    {
-        "id": "60e5ea9a9bb4200008376f76",
-        "name": "Motorvision TV",
-        "number": 509,
-        "summary": "Motorvision TV es un canal para los amantes de los deportes a motor en todas sus formas. Revive carreras legendarias, admira autos espectaculares y disfruta de toda la acción hasta quedarte sin aliento."
-    },
-    {
-        "id": "61099f2b40d0640007fc5aa2",
-        "name": "El Encantador de Perros",
-        "number": 486,
-        "summary": "Con una habilidad única para ver el mundo a través de sus ojos, el experto en adiestramiento canino César Millán rehabilita perros conflictivos para solucionar problemas de actitud, tanto de los canes como de los dueños."
-    },
-    {
-        "id": "6109a9f5531b840007a4a187",
-        "name": "Cazador de Homicidas",
-        "number": 583,
-        "summary": "Joe Kenda fue uno de los detectives de homicidio más exitosos. Aquí te contará sobre sus antiguos casos y cómo logró resolverlos para atrapar a los más peligrosos criminales. No te pierdas Cazador de Homicidas, gratis en Pluto TV."
-    },
-    {
-        "id": "6109ab25b84d6a0007504886",
-        "name": "Pluto TV Mi Obsesión Favorita",
-        "number": 527,
-        "summary": "¿A quién no le gusta fisgonear en la vida de los demás? Ahora podrás hacerlo y descubrir las manías más extrañas y las colecciones más extravagantes. Mi obsesión favorita es un canal que te permitirá hacer todo y mucho más. Gratis en Pluto TV"
-    },
-    {
-        "id": "613237a1c9e0db0007a91350",
-        "name": "Telefe Pluto TV",
-        "number": 1052,
-        "summary": "Telefe, el canal número 1 de Argentina llega a Pluto TV con lo mejor de su programación. Para que disfrutes de sus shows más exitosos. Novelas, series, viajes y 4 ediciones en vivo de noticias. Todo en un solo lugar."
-    },
-    {
-        "id": "6132429ec9e0db0007a91425",
-        "name": "Susana Giménez",
-        "number": 1061,
-        "summary": "Susana y Pluto TV repasan 30 años de historia. Desde sus sketchs , los talentos freaks, las entrevistas a estrellas conocidas mundialmente, las perlitas y los musicales de artistas nacionales e internacionales junto a los juegos que hicieron historia."
-    },
-    {
-        "id": "615b9855c6b58b000724477f",
-        "name": "Iron Chef",
-        "number": 431,
-        "summary": "Disfruta de la más exigente y original competencia de cocina las 24 horas del día en Pluto TV. Contempla como los mejores chefs del mundo se enfrentan en duelos mano a mano a los formidables Iron Chefs."
-    },
-    {
-        "id": "6185a9a88b2ce30007de5128",
-        "name": "Pluto TV Dramas Coreanos",
-        "number": 180,
-        "summary": "Descubre los mejores shows de la TV coreana en un canal pensado exclusivamente para ti. Pluto TV Dramas Coreanos donde podrás sorprenderte viendo excelentes series de ciencia ficción, romance y hasta dramas de época. Todo en Pluto TV Dramas Coreanos."
-    },
-    {
-        "id": "619d56d9fa3070000709e3f7",
-        "name": "Younger",
-        "number": 175,
-        "summary": "¿Estás preparado para un canal entero de episodios de Younger? Diviértete las 24hs con Lisa, una editora experimentada que tiene que parecer más joven para ingresar al mercado laboral y termina, bueno… termina divirtiéndose. Gratis en Pluto Tv."
-    },
-    {
-        "id": "619d59b7cbef25000728221c",
-        "name": "Euronews Español",
-        "number": 685,
-        "summary": "\"Euronews\" es el único canal de noticias internacional con una perspectiva europea. Su misión es permitir que cada uno se forme su propia opinión. Euronews se define por su imparcialidad e independencia. Euronews es “All Voices” (todas las voces)."
-    },
-    {
-        "id": "619d5e6a093e7c0007489211",
-        "name": "Baby Shark TV",
-        "number": 1410,
-        "summary": "Baby Shark es un canal donde tu hijo podrá bailar, divertirse y aprender. Los más pequeños van a disfrutar de canciones de cuna y lecciones sobre hábitos saludables, letras, colores y mucho más. Todo en Baby Shark, gratis en Pluto tv."
-    },
-    {
-        "id": "61a52615cbef2500072876e2",
-        "name": "MTV Shore",
-        "number": 389,
-        "summary": "Prepárate para vivir de fiesta con MTV Shore. Únete al grupo más descontrolado y disfruta junto a ellos de todas sus aventuras. Vuelve a ver los shows que amas y disfruta también de escenas inéditas. ¿Estás listo? Porque esto se va a desmadrar."
-    },
-    {
         "id": "61b793ccf571b80007b7a610",
         "name": "Pluto TV Adrenalina Freezone",
         "number": 27,
         "summary": "¡En el canal Pluto TV Adrenalina Freezone puedes ver películas emocionantes! Grandes éxitos de acción, aventura, suspenso y terror. Los grandes nombres de Hollywood 100% gratis para ti. En Pluto TV."
     },
     {
-        "id": "6202ab549654c800076ee13f",
-        "name": "Nickelodeon Rocket Power",
-        "number": 1450,
-        "summary": "En Nickelodeon Rocket Power te divertirás con las aventuras de cuatro amigos amantes de la acción y los deportes extremos. Las 24 horas, todos los días. ¡Justo lo que necesitas para divertirte con Rocket Power!"
+        "id": "5dcdde78f080d900098550e4",
+        "name": "Pluto TV Cine Comedia",
+        "number": 33,
+        "summary": "Si la risa es la mejor medicina, Pluto TV Cine Comedia es la cura para todos tus males. Prepárate para reírte sin parar, mientras disfrutas de las películas de comedia más hilarantes, delirantes y disparatadas de la historia."
     },
     {
-        "id": "620e67a63b5e370007e06bb2",
-        "name": "Chiquititas",
-        "number": 1058,
-        "summary": "Chiquititas la serie que fue un éxito vuelve las 24hs a Pluto TV para vos. Revive la historia del hogar Rincón de Luz y emociónate nuevamente como la primera vez.. Comparte sus sueños, sus canciones, y toda la magia."
+        "id": "5dcddfcb229eff00091b6bdf",
+        "name": "Pluto TV Cine Drama",
+        "number": 36,
+        "summary": "Descubre un canal para disfrutar desde melodramas basados en hechos de la vida real hasta las películas con los argumentos de mayor nivel narrativo. Romanticismo, tragedia, pasión. Descubre el drama en todas sus expresiones, en vivo las 24 horas."
     },
     {
-        "id": "620fd9f4afb9a80007a9c6d5",
-        "name": "MTV Teen Mom",
-        "number": 395,
-        "summary": "Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom."
+        "id": "5dd7ea2aeab5230009986735",
+        "name": "Pluto TV Cine Romance",
+        "number": 39,
+        "summary": "Hay personas que creen que el amor todo lo puede y que supera cualquier obstáculo. Ellos se merecían un canal propio. En Pluto TV Cine Romance vas a disfrutar de las películas más entretenidas y románticas, un canal del que te vas a enamorar."
     },
     {
-        "id": "620ff0a01f9e8700076c6f9d",
-        "name": "Nickelodeon iCarly",
-        "number": 1360,
-        "summary": "Cuando Carly crea su show de internet llamado Icarly se vuelve famosa de la noche a la mañana. Con ayuda de sus amigos y su excéntrico hermano deberá aprender a lidiar con su fama mientras prepara nuevos episodios de su popular show."
-    },
-    {
-        "id": "62154548a2be360007cb02f0",
-        "name": "Ice Pilots",
-        "number": 492,
-        "summary": "Ice Pilots trata sobre una aerolínea excéntrica y su tripulación que vuela aviones antiguos en imposibles misiones árticas. Buffalo Airways atrae a jóvenes pilotos que buscan aventuras en el Ártico y la oportunidad de volar aviones grandes y antiguos."
-    },
-    {
-        "id": "62310d5a5dc9550007c6f580",
-        "name": "CBS News",
-        "number": 677,
-        "summary": "CBS News, uno de los canales de noticias más prestigiosos llega a Pluto TV. Infórmate sobre todo lo que pasa en el mundo de la mano de los mejores periodistas. Y todo en idioma original. Si quieres estar informado las 24 horas éste es tu canal."
+        "id": "5ddc4e8bcbb9010009b4e84f",
+        "name": "Pluto TV Cine Suspenso",
+        "number": 42,
+        "summary": "Tómalo con calma y muévete sigilosamente, estás viendo Pluto TV Cine Suspenso donde cualquier movimiento en falso podría desatar una situación estremecedora. Asesinos acechando en plena noche y gangsters dispuestos a llevarte al límite de tu asiento."
     },
     {
         "id": "624af40c004f8000079b784d",
@@ -636,28 +60,16 @@
         "summary": "En Pluto TV Cine Crimen nadie es inocente. 24 horas de películas en las que los protagonistas solo tienen dos objetivos: Romper la ley y salir impunes. Aquí encontrarás a culpables e inocentes. Quédate para descubrir si el crimen siempre paga."
     },
     {
-        "id": "6254598f5083f800076d8563",
-        "name": "Bob Esponja Pantalones Cuadrados",
-        "number": 1460,
-        "summary": "Bob Esponja y todos sus amigos llegaron a Pluto TV. Para que te diviertas con todas sus aventuras. Un canal dedicado exclusivamente a la esponja más famosa de la televisión para que lo disfrutes las 24 horas del día."
+        "id": "5dcddf1ed95e740009fef7ab",
+        "name": "Pluto TV Cine Terror",
+        "number": 48,
+        "summary": "Visita el único canal con los demonios, monstruos y zombies más aterradores en un solo lugar. Siente cómo las criaturas que no imaginarías ni en tus peores pesadillas persiguen tus talones."
     },
     {
-        "id": "625461ef01f27a0007976ad1",
-        "name": "MTV Catfish",
-        "number": 397,
-        "summary": "¿Alguna vez conociste a alguien por internet y nunca quiso que lo conocieras en personas? Puede que hayas sido víctima de un catfish. Este programa se especializa en investigar y desenmascarar casos de personas que se hacen pasar por otras."
-    },
-    {
-        "id": "626c2ed933a2890007e91422",
-        "name": "Death Note",
-        "number": 1264,
-        "summary": "Light Yagami es un estudiante sobresaliente con un futuro brillante que, sin embargo, se muere de aburrimiento. Pero su vida dará un vuelco el día que encuentre el poderoso cuaderno que dejó caer un travieso dios de la muerte Shinigami."
-    },
-    {
-        "id": "62b218fc511d4b00070ddc0c",
-        "name": "MTV Flow Latino",
-        "number": 1507,
-        "summary": "Sumérgete en los ritmos que te aceleran el corazón y las melodías vibrantes de las estrellas más grandes de la música latina."
+        "id": "5f2817d3d7573a00080f9175",
+        "name": "Pluto TV Sci-Fi",
+        "number": 51,
+        "summary": "Desde el espacio exterior llega una señal que transmite las 24hs, todos los días de la semana. Esa señal es Pluto TV SCI-FI. Las mejores películas y series de ciencia ficción y fantasía de la galaxia para explorar los confines del espacio."
     },
     {
         "id": "62c5d80dc6de440007e033eb",
@@ -666,88 +78,34 @@
         "summary": "Runtime es un canal en donde podrás disfrutar de las mejores series y películas protagonizadas por los más grandes actores y actrices de Hollywood. Si buscas acción, comedia, suspenso, drama o romance los vas a encontrar en Runtime."
     },
     {
-        "id": "62d0895ebe7a970008785244",
-        "name": "Daria",
-        "number": 934,
-        "summary": "Daria, la exitosa serie de MTV, ahora está en Pluto TV. Vuelve a ver cómo una chica inteligente y cínica atraviesa la adolescencia como una extraña en un mundo de jóvenes superficiales."
+        "id": "5defde6d6c07b50009cf0757",
+        "name": "Pluto TV  Nuestro Cine",
+        "number": 66,
+        "summary": "Viajar por mundos remotos, a millones de años luz de nuestra galaxia. Enfrentarnos a una amenaza mundial. Volver a revivir la historia. Saltar de un camión en movimiento a otro. Ser un samurai. Un súper héroe. Todo lo que más te gusta del cine."
     },
     {
-        "id": "62d08af527ce19000731eaa0",
-        "name": "La Familia del Barrio",
-        "number": 939,
-        "summary": "El exitosísimo dibujo para adultos La familia del barrio está en PlutoTV. Esta familia mexicana se burlará de la realidad con altas dosis de humor negro. Todo puede pasar en esta divertida serie."
+        "id": "5dfcde52d28b09000a42d7a2",
+        "name": "Pluto TV A La Mexicana",
+        "number": 70,
+        "summary": "Pluto TV A La Mexicana te acerca a los actores más icónicos de México. Un viaje que empieza por la llamada Época de Oro y llega hasta la actualidad. No te pierdas los mejores géneros y a los actores de cada década, como María Félix, Silvia Pinal, Antonio"
     },
     {
-        "id": "6320d80a66666000086712d7",
-        "name": "Claro Sports",
-        "number": 835,
-        "summary": "Disfruta de la mejor cobertura deportiva en Latinoamérica, producciones propias y eventos exclusivos, a través del canal Claro Sports en Pluto TV."
+        "id": "609059dc63be6e0007b4eca6",
+        "name": "Pluto TV Cine Clásico",
+        "number": 87,
+        "summary": "Vuelve a la era dorada del cine con Pluto TV Cine Clásico. Dramas, comedias, y emocionantes thrillers premiados, protagonizados por tus estrellas de cine favoritas."
     },
     {
-        "id": "632119a92c3b880007d3f5dc",
-        "name": "Beyblade",
-        "number": 1274,
-        "summary": "El popular anime Beyblade está en Pluto TV. Acompaña a Tyson y su equipo, los Bladebreakers, en su lucha por convertirse en los mejores bey-luchadores del mundo. Ellos representarán a su país en el mundial de Beyblade ¿podrán lograrlo?"
+        "id": "5dd6ddb30a1d8a000908ed4c",
+        "name": "Pluto TV Cine Familia",
+        "number": 90,
+        "summary": "Pluto TV Cine Familia es el canal ideal para todos en casa. Tiene los mejores contenidos de Comedia, Animación, Cine de Entretenimiento y hasta Clásicos. Aquí la diversión y el entretenimiento familiar están asegurados todos los días del año."
     },
     {
-        "id": "63211ba9cad976000794f988",
-        "name": "La Selección",
-        "number": 331,
-        "summary": "La selección cuenta la historia de Faustino Asprilla, Carlos ‘El Pibe’ Valderrama, René Higuita, Freddy Rincón e Iván René Valenciano. Haciendo énfasis en su vida, sus amores, sus familias, y en toda la pasión que los convirtió en héroes del fútbol."
-    },
-    {
-        "id": "6322099c822bbc00074857db",
-        "name": "Los Padrinos Mágicos",
-        "number": 1465,
-        "summary": "Timmy es un chico común y corriente. Hasta que un día aparecen sus padrinos mágicos y su vida cambiará completamente. Cosmo y Wanda lo ayudarán con la tarea, a enfrentarse a la malvada niñera y juntos vivirán increíbles aventuras."
-    },
-    {
-        "id": "633dc8684bf50b00074a46b1",
-        "name": "Backdoor",
-        "number": 1004,
-        "summary": "En Pluto TV vas a poder disfrutar del canal de Backdoor. Aquí creamos comedia de verdad. Tenemos sketches de situaciones cotidianas y sketches de humor absurdo."
-    },
-    {
-        "id": "636e83511fa9600007e5ae19",
-        "name": "Pluto TV Anime Kids",
-        "number": 1485,
-        "summary": "En Pluto TV Anime Kids encontrarás los mejores animes que divertirán a grandes y chicos. Disfruta de Yu-Gi-Oh!, Bakugan, GGO Football y muchísimos más las 24 horas los 365 días del año. La mejor animación de oriente está en este canal."
-    },
-    {
-        "id": "638693db857364000781b471",
-        "name": "MTV Con Mi Ex",
-        "number": 391,
-        "summary": "MTV Con Mi Ex, el canal que ya trae los grandes clásicos del placer culpable: No Estúdio Com o Ex, De Férias Com o Ex y mucho más. Solo Pluto TV puede ofrecer las 24 horas del día, los 7 días de la semana, lo mejor del humor, peleas y  un poco de amor."
-    },
-    {
-        "id": "639751f81a36b400072b8f5a",
-        "name": "Vive Kanal D Drama",
-        "number": 184,
-        "summary": "Vive Kanal D Drama es el lugar donde encontrarás las mejores novelas turcas elegidas especialmente para ti. Prepárate para vivir historias sorprendentes llenas de amor, drama y pasión. Todo por Pluto TV."
-    },
-    {
-        "id": "63a084934734f30007457b2c",
-        "name": "Smithsonian Channel Pluto TV",
-        "number": 560,
-        "summary": "En Smithsonian Channel Pluto TV disfrutarás de una muy variada de documentales. Aprenderás sobre cultura, datos científicos e historia. Un canal ideal para esas personas curiosas, que siempre quieren aprender algo nuevo."
-    },
-    {
-        "id": "63ceb6ff60bc8f00088dc625",
-        "name": "Teatrix",
-        "number": 1036,
-        "summary": "Disfruta de las más cautivadoras, divertidas y emocionantes obras de teatro en la comodidad de tu hogar. Déjate llevar por las brillantes actuaciones, la magia del escenario y las historias que te conmoverán en este canal dedicado al teatro."
-    },
-    {
-        "id": "63d2c140c111bc0008cb890b",
-        "name": "TeleFórmula",
-        "number": 705,
-        "summary": "TeleFórmula tiene una programación enfocada en noticias de actualidad, tanto de México como del mundo, finanzas, tecnología y farándula entre muchas cosas más. La mejor forma de estar informado todo el tiempo es mirando TeleFórmula."
-    },
-    {
-        "id": "63dd5d7a4e83e700088fbca8",
-        "name": "Las Tortugas Ninja",
-        "number": 1470,
-        "summary": "Cuatro tortugas mutantes fanáticas de la pizza, entrenadas por su maestro ninja, surgirán de las alcantarillas para combatir el crimen y proteger a la ciudad de Manhattan de todo tipo de amenazas."
+        "id": "655f62ff954b020008c91ec6",
+        "name": "Pluto TV Series de Crimen",
+        "number": 102,
+        "summary": "¡Adéntrate en el oscuro y adictivo universo del crimen! Descubre intrigas, giros inesperados y el suspenso más intenso en nuestras series. Misterios y asesinatos te esperan en las series más impactantes sobre crimen y detectives."
     },
     {
         "id": "63eb9255c111bc0008fe6ec4",
@@ -762,70 +120,106 @@
         "summary": "NCIS es una serie que sigue a un equipo de agentes especiales del Servicio de Investigación Criminal Naval que investiga crímenes relacionados con la Marina de los Estados Unidos y el Cuerpo de Marines, mientras lidian con sus conflictos personales."
     },
     {
+        "id": "6479ff1c17f5e10008ad2797",
+        "name": "Pluto TV Series de Acción",
+        "number": 125,
+        "summary": "Pluto TV Series de Acción es el canal del maratón perfecto para los que no les gusta mover ni un solo dedo. No necesitas ni reflejos, ni entrenamiento. Muchas series de acción en cuanto te quedas en el sillón descansando. En Pluto TV."
+    },
+    {
+        "id": "64ff270f30ab3300084e259c",
+        "name": "Rookie Blue: Policías Novatos",
+        "number": 127,
+        "summary": "Rookie Blue: Policías Novatos es una emocionante serie policial que sigue a jóvenes reclutas en su primer trabajo en la fuerza, enfrentando desafíos tanto en el deber como en sus vidas mientras forjan relaciones y luchan contra crímenes en la ciudad."
+    },
+    {
+        "id": "64ff26233efb5100082eeb2e",
+        "name": "Infierno Sobre Ruedas",
+        "number": 128,
+        "summary": "Infierno Sobre Ruedas es una serie ambientada en el Salvaje Oeste que sigue la historia de Cullen Bohannon, quién busca venganza contra los soldados que mataron a su esposa e hijo. No te pierdas esta serie llena de drama y acción."
+    },
+    {
+        "id": "5dcde1317578340009b751d0",
+        "name": "Pluto TV Series",
+        "number": 140,
+        "summary": "Pluto TV Series es una colección de las mejores series de suspenso y drama de la actualidad. Historias que no te permitirán despegarte de la pantalla y finales sorprendentes que te dejarán con ganas de ver más."
+    },
+    {
+        "id": "655f636d954b020008c93299",
+        "name": "Pluto TV Series de Drama",
+        "number": 160,
+        "summary": "Descubre la profundidad de las emociones humanas con nuestras series dramáticas. Desde conflictos personales hasta pasiones avasalladoras. Prepárate para una montaña rusa emocional que te mantendrá al borde del asiento en cada escena."
+    },
+    {
+        "id": "619d56d9fa3070000709e3f7",
+        "name": "Younger",
+        "number": 175,
+        "summary": "¿Estás preparado para un canal entero de episodios de Younger? Diviértete las 24hs con Lisa, una editora experimentada que tiene que parecer más joven para ingresar al mercado laboral y termina, bueno… termina divirtiéndose. Gratis en Pluto Tv."
+    },
+    {
+        "id": "6185a9a88b2ce30007de5128",
+        "name": "Pluto TV Dramas Coreanos",
+        "number": 180,
+        "summary": "Descubre los mejores shows de la TV coreana en un canal pensado exclusivamente para ti. Pluto TV Dramas Coreanos donde podrás sorprenderte viendo excelentes series de ciencia ficción, romance y hasta dramas de época. Todo en Pluto TV Dramas Coreanos."
+    },
+    {
+        "id": "6661d5424b10960008599fa3",
+        "name": "Pluto TV Dramas Coreanos Teen",
+        "number": 181,
+        "summary": "Descubre las mejores series coreanas para adolescentes en un canal pensado exclusivamente para ti. Pluto TV Dramas Coreanos Teen es el lugar ideal donde podrás disfrutar de excelentes series con historias para jóvenes realmente apasionantes."
+    },
+    {
+        "id": "639751f81a36b400072b8f5a",
+        "name": "Vive Kanal D Drama",
+        "number": 184,
+        "summary": "Vive Kanal D Drama es el lugar donde encontrarás las mejores novelas turcas elegidas especialmente para ti. Prepárate para vivir historias sorprendentes llenas de amor, drama y pasión. Todo por Pluto TV."
+    },
+    {
+        "id": "5ffe17e3d765170007c3a4fe",
+        "name": "Pluto TV España",
+        "number": 190,
+        "summary": "Las mejores películas y series de España llegan a Pluto TV, y las puedes disfrutar todas juntas en un solo canal: Pluto TV España. Ríete, llora, enamórate y sufre con las mejores ficciones de España."
+    },
+    {
+        "id": "5dd837642c6e9300098ad484",
+        "name": "Pluto TV Series Latinas",
+        "number": 195,
+        "summary": "Las mejores series en español están disponibles 24/7 en Pluto TV Series Latinas para que puedas disfrutarlas en tu idioma. Aquí podrás entretenerte, emocionarte y sorprenderte con éxitos como Nada Personal o La Fiscal de Hierro."
+    },
+    {
+        "id": "66aa6e03fe11e500086038ed",
+        "name": "Al Fondo Hay Sitio",
+        "number": 197,
+        "summary": "LOS GONZÁLES, una familia de lo más campechana, llega a una de las zonas más exclusivas de Lima. Pero todo se complica cuando se cruzan con LOS MALDINI, quienes harán lo imposible para deshacerse de ellos."
+    },
+    {
+        "id": "5de802659167b10009e7deba",
+        "name": "Pluto TV Series Retro",
+        "number": 203,
+        "summary": "En Pluto TV Series Retro vas a poder divertirte y entretenerte con las mejores sitcoms de la historia de la televisión y éxitos clásicos como Who ìs the boss?, The Three Stooges, Popeye the Sailor and Romance of Betty Boop."
+    },
+    {
         "id": "63eb95baa99571000898a078",
         "name": "MacGyver",
         "number": 235,
         "summary": "MacGyver, la popular série de acción y aventuras de los 80 está en PlutoTv. Descubre como su protagonista, resuelve problemas peligrosos utilizando su ingenio y habilidades científicas en lugar de armas."
     },
     {
-        "id": "63f6294449839300085c4bd2",
-        "name": "Rincón de Luz",
-        "number": 1059,
-        "summary": "Rincón de Luz cuenta la historia de un grupo de niños que viven en un hogar de huérfanos. Ellos aprenden a valorar la importancia de la familia, la amistad y la solidaridad a través de la música y las situaciones divertidas que irán viviendo."
+        "id": "66a26a7846762a0008258d4e",
+        "name": "Baywatch",
+        "number": 240,
+        "summary": "La serie que conquistó el mundo ha llegado a tierra en Pluto TV. Si buscas acción, emoción y correr en cámara lenta, Baywatch siempre está aquí, las 24 horas del día."
     },
     {
-        "id": "63f7e3f9dff38e00082a57af",
-        "name": "ITV Deportes",
-        "number": 839,
-        "summary": "En  ITV Deportes vas a poder ver los mejores partidos exclusivos de la Liga Mexicana de Béisbol, la Liga Nacional de Baloncesto Profesional, la Liga de Fútbol Americano y programas originales de diversos temas deportivos."
+        "id": "60142258a54aeb0007751c15",
+        "name": "Pluto TV Retro Cartoons",
+        "number": 265,
+        "summary": "Pluto TV Retro Cartoons: Enciende la máquina del tiempo y viaja a la época de las mejores animaciones. Vuelve a ser un niño mirando las caricaturas que marcaron tu vida: Popeye, Betty Boop, Flash Gordon y mucho más. Solo en Pluto TV."
     },
     {
-        "id": "64025592953da40008bf9238",
-        "name": "Obsesión por los Autos",
-        "number": 503,
-        "summary": "En \"Obsesión por los autos\", Danny \"The Count\" Koker y su equipo restauran, personalizan y venden autos rápidamente. Míralos luchar por mantener vivir su negocio de Las Vegas Donde queda restauración es una verdadera apuesta."
-    },
-    {
-        "id": "6419ab7c9189ce000865a469",
-        "name": "COPS",
-        "number": 518,
-        "summary": "En COPS acompaña a verdaderos policías mientras patrullan las calles. prepárate para verlos participar de persecuciones a alta velocidad, realizar los arrestos más salvajes y verlos involucrarse en las situaciones más peligrosas."
-    },
-    {
-        "id": "64510d3ad3fdde00080951f2",
-        "name": "MTV Drag",
-        "number": 383,
-        "summary": "Disfruta MTV Drag PlutoTV, con RuPaul como anfitrión e inspiración en RuPaul's Drag Race, lo último en competencias de Drag Queen.\nLos concursantes drag queens más escandalosas, talentosas y hermosas, todas luchando por el título como la mejor Drag Queen."
-    },
-    {
-        "id": "645952687cb4b100084ed52e",
-        "name": "Nickelodeon Pluto TV",
-        "number": 1455,
-        "summary": "¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV."
-    },
-    {
-        "id": "645d1abbe1979c0008779d5a",
-        "name": "Archivos Extraterrestres",
-        "number": 552,
-        "summary": "Explora los misterios del universo en Archivos Extraterrestres. Únete a nosotros en un viaje fascinante a través de encuentros cercanos, avistamientos y teorías sobre la vida alienígenea. Descubre los secretos más profundos del cosmos en este canal."
-    },
-    {
-        "id": "64666345f3f5b1000882bfb4",
-        "name": "Captain Tsubasa",
-        "number": 1271,
-        "summary": "Captain Tsubasa sigue la historia de Tsubasa, un joven futbolista que persigue sus sueños con pasión y determinación, enfrentando desafíos y demostrando habilidades asombrosas en el campo de juego. Una aventura que cautivará a los fans del fútbol"
-    },
-    {
-        "id": "646ccdd0939a5900088a1980",
-        "name": "Corazón",
-        "number": 306,
-        "summary": "Corazón es el canal de telenovelas que conecta miles de corazones con sus apasionantes historias.\nOfrece las mejores historias de amor, drama, comedia y temática juvenil, y mucho más."
-    },
-    {
-        "id": "646cce4d1593940008a33f09",
-        "name": "Azteca Internacional",
-        "number": 1103,
-        "summary": "Azteca Internacional es un canal con cobertura en toda Latinoamérica y el resto del mundo. Ofreciendo el mejor entretenimiento, noticias, telenovelas y series nuevas para toda la familia."
+        "id": "5dcde0cc2efd2700090b7ff4",
+        "name": "Pluto TV Novelas",
+        "number": 278,
+        "summary": "Te ofrecemos el catálogo más completo de novelas en tu idioma, gratis, para verlas cuando quieras y donde quieras.  Las novelas que te acompañan a lo largo del tiempo, las memorables. Las que te conmueven. Historias poderosas. Emotivas. Actuales."
     },
     {
         "id": "6474a7958e3c0a0008b97cae",
@@ -834,16 +228,28 @@
         "summary": "Descubre el vibrante universo de las novelas mexicanas. Sumérgete en historias llenas de amor, pasión y drama, donde cada trama te cautivará y te llevará a un viaje emocional inolvidable. Vas a disfrutar de un mundo de emociones y entretenimiento."
     },
     {
+        "id": "646ccdd0939a5900088a1980",
+        "name": "Corazón",
+        "number": 306,
+        "summary": "Corazón es el canal de telenovelas que conecta miles de corazones con sus apasionantes historias.\nOfrece las mejores historias de amor, drama, comedia y temática juvenil, y mucho más."
+    },
+    {
         "id": "6474a7e7f77b6100080a89e7",
         "name": "Pluto TV Novelas de Colombia",
         "number": 325,
         "summary": "Las novelas colombianas son las más reconocidas del mundo y aquí podrás disfrutarlas una y otra vez. Historias llenas de pasión, suspenso y tradiciones únicas que te transportarán a un mundo de emociones intensas y personajes inolvidables."
     },
     {
-        "id": "6474a86917f5e100089a0c1c",
-        "name": "Pluto TV Novelas de Venezuela",
-        "number": 355,
-        "summary": "Explora la esencia vibrante de las novelas venezolanas en nuestro canal. Descubre historias llenas de amor, intriga y emociones genuinas que te atraparán desde el primer momento con sus personajes inolvidables y momentos inesperados."
+        "id": "604bdf4e6d0abc0007ba77ad",
+        "name": "Sin Tetas No Hay Paraíso",
+        "number": 328,
+        "summary": "En Sin Tetas No Hay Paraíso vas a conocer la historia de Catalina, una joven que cegada por su ambición y las malas influencias, llegará a un paraíso al que jamás desearía haber entrado. Disfruta de toda la serie Gratis, en Pluto TV."
+    },
+    {
+        "id": "63211ba9cad976000794f988",
+        "name": "La Selección",
+        "number": 331,
+        "summary": "La selección cuenta la historia de Faustino Asprilla, Carlos ‘El Pibe’ Valderrama, René Higuita, Freddy Rincón e Iván René Valenciano. Haciendo énfasis en su vida, sus amores, sus familias, y en toda la pasión que los convirtió en héroes del fútbol."
     },
     {
         "id": "6474a8c64f5ba50008683603",
@@ -852,28 +258,88 @@
         "summary": "Las fascinantes novelas argentinas están en este canal. Escucha a los protagonistas decir “vos”, en historias llenas de amor, intriga y tradiciones únicas que te llevarán por un viaje inolvidable de emociones y personajes cautivadores."
     },
     {
-        "id": "6479ff1c17f5e10008ad2797",
-        "name": "Pluto TV Series de Acción",
-        "number": 125,
-        "summary": "Pluto TV Series de Acción es el canal del maratón perfecto para los que no les gusta mover ni un solo dedo. No necesitas ni reflejos, ni entrenamiento. Muchas series de acción en cuanto te quedas en el sillón descansando. En Pluto TV."
+        "id": "6474a86917f5e100089a0c1c",
+        "name": "Pluto TV Novelas de Venezuela",
+        "number": 355,
+        "summary": "Explora la esencia vibrante de las novelas venezolanas en nuestro canal. Descubre historias llenas de amor, intriga y emociones genuinas que te atraparán desde el primer momento con sus personajes inolvidables y momentos inesperados."
     },
     {
-        "id": "6495af324c014a000842e923",
-        "name": "Desafío Super Humanos",
-        "number": 462,
-        "summary": "Desafío Super Humanos es un programa que muestra a personas ordinarias superando límites\nfísicos y mentales a través de desafíos extremos y pruebas de resistencia, revelando el\nextraordinario potencial del cuerpo humano y su capacidad de supervivencia."
+        "id": "665fb022f78a8500095965a9",
+        "name": "La Academia",
+        "number": 375,
+        "summary": "Disfruta del reality de música más importante de México, La Academia, donde jóvenes\ncantantes compiten semana a semana con emocionantes conciertos y críticas en donde\nel público vota por su alumno favorito."
     },
     {
-        "id": "6495c6ad115d060008bf6b52",
-        "name": "PAW Patrol Patrulla de Cachorros",
-        "number": 1400,
-        "summary": "Únete a la Patrulla Canina en sus emocionantes misiones de rescate, donde estos valientes cachorros liderados por Ryder usan su ingenio, habilidades y trabajo en equipo para proteger a la comunidad, enseñando valiosas lecciones de amistad."
+        "id": "5dcde197f6591d0009839e04",
+        "name": "Pluto TV Reality",
+        "number": 380,
+        "summary": "Cuando la realidad supera a la ficción, nada mejor que ponerle una cámara y grabarlo. Sumergete en el mundo de los realities las 24 horas del día. Programas creados para que no quieras dejar de verlos. Todo esto en Pluto TV Reality, las 24 horas del día."
     },
     {
-        "id": "64b02bbd7d93410008fdae60",
-        "name": "DAZN Women's Football",
-        "number": 871,
-        "summary": "DAZN Women’s Football ofrece a los fanáticos asientos de primera fila para disfrutar de la mejor acción del fútbol femenino, incluida la UEFA Women’s Champions League en vivo, la Liga F, documentales y mucho más acceso detrás de escena."
+        "id": "64510d3ad3fdde00080951f2",
+        "name": "MTV Drag",
+        "number": 383,
+        "summary": "Disfruta MTV Drag PlutoTV, con RuPaul como anfitrión e inspiración en RuPaul's Drag Race, lo último en competencias de Drag Queen.\nLos concursantes drag queens más escandalosas, talentosas y hermosas, todas luchando por el título como la mejor Drag Queen."
+    },
+    {
+        "id": "5fab088b3279760007d4e4fd",
+        "name": "MTV Pluto TV",
+        "number": 385,
+        "summary": "Dale Play a la mejor música, los desmadres, las pedas y al romance. MTV, el canal con todo lo que amas, ahora en Pluto TV."
+    },
+    {
+        "id": "5de91b7ea86ee60009d89e75",
+        "name": "MTV Reality",
+        "number": 387,
+        "summary": "Los reality shows de MTV marcaron una época, manteniendo a generaciones enteras de jóvenes pegadas a la pantalla, con un estilo propio que no puedes dejar de verlos. Aquí, la vida de las personas se convierte en drama y emoción."
+    },
+    {
+        "id": "61a52615cbef2500072876e2",
+        "name": "MTV Shore",
+        "number": 389,
+        "summary": "Prepárate para vivir de fiesta con MTV Shore. Únete al grupo más descontrolado y disfruta junto a ellos de todas sus aventuras. Vuelve a ver los shows que amas y disfruta también de escenas inéditas. ¿Estás listo? Porque esto se va a desmadrar."
+    },
+    {
+        "id": "638693db857364000781b471",
+        "name": "MTV Con Mi Ex",
+        "number": 391,
+        "summary": "MTV Con Mi Ex, el canal que ya trae los grandes clásicos del placer culpable: No Estúdio Com o Ex, De Férias Com o Ex y mucho más. Solo Pluto TV puede ofrecer las 24 horas del día, los 7 días de la semana, lo mejor del humor, peleas y  un poco de amor."
+    },
+    {
+        "id": "5e98a911c881310007d7aae2",
+        "name": "MTV Ridiculousness",
+        "number": 393,
+        "summary": "Quien haya hecho una buena broma, sabrá lo que significa MTV Ridiculousness, el canal donde las víctimas y los más bromistas conviven en perfecta armonía mientras miles de testigos no paran de reírse."
+    },
+    {
+        "id": "620fd9f4afb9a80007a9c6d5",
+        "name": "MTV Teen Mom",
+        "number": 395,
+        "summary": "Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom."
+    },
+    {
+        "id": "625461ef01f27a0007976ad1",
+        "name": "MTV Catfish",
+        "number": 397,
+        "summary": "¿Alguna vez conociste a alguien por internet y nunca quiso que lo conocieras en personas? Puede que hayas sido víctima de un catfish. Este programa se especializa en investigar y desenmascarar casos de personas que se hacen pasar por otras."
+    },
+    {
+        "id": "5dd6d935d000120009bc1132",
+        "name": "Pluto TV  Competencias",
+        "number": 427,
+        "summary": "Preguntas y respuestas, emociones fuertes y miles de insectos caminando por tu cuerpo. Cultura general, destreza y viseras de animales servidas en bandeja. ¿Qué tanto sabes? ¿Cuanta suerte tienes? ¿que tan valiente eres?"
+    },
+    {
+        "id": "615b9855c6b58b000724477f",
+        "name": "Iron Chef",
+        "number": 431,
+        "summary": "Disfruta de la más exigente y original competencia de cocina las 24 horas del día en Pluto TV. Contempla como los mejores chefs del mundo se enfrentan en duelos mano a mano a los formidables Iron Chefs."
+    },
+    {
+        "id": "5e3ddbd27091820009f86dd9",
+        "name": "MasterChef",
+        "number": 435,
+        "summary": "A todos nos gustan las realidades y los programas de cocina, en MasterChef combinamos los dos. Los mejores chefs se enfrentan entre si y al más exigente jurado intentando llevarse el premio de miles de dólares y el título de MásterChef."
     },
     {
         "id": "64bed7005dc16600089b84e9",
@@ -882,10 +348,268 @@
         "summary": "MasterChef Junior es un emocionante y conmovedor programa de cocina que reúne a talentosos y apasionados niños cocineros en una desafiante competencia culinaria, donde demuestran habilidades extraordinarias y muestran su amor por la gastronomía."
     },
     {
-        "id": "64c92fea3c3344000869e8a9",
-        "name": "Naruto Shippuden",
-        "number": 1260,
-        "summary": "Naruto Shippuden, una emocionante y épica serie de anime que sigue la evolución del valiente ninja Naruto mientras lucha por proteger a sus seres queridos y superar sus propios demonios internos."
+        "id": "6095ad97351eb0000754c1e6",
+        "name": "Hells Kitchen",
+        "number": 443,
+        "summary": "Un grupo de aspirantes compiten para ser el mejor chef. Para lograrlo, deberán superar las pruebas más difíciles, bajo la atenta mirada del exigente chef Gordon Ramsay. Las cosas se van a poner muy calientes en la cocina de PlutoTv Hells Kitchen."
+    },
+    {
+        "id": "5e46e64dc73db400094b5f0b",
+        "name": "Minuto Para Ganar",
+        "number": 447,
+        "summary": "En 60 segundos se pueden hacer muy pocas cosas, excepto que sea uno de los participantes de este programa. En PlutoTv Minuto para Ganar, mira a los concursantes intentando superar pruebas de un minuto para poder llevarse miles de dólares."
+    },
+    {
+        "id": "6099600015e88c0007ecda25",
+        "name": "Boom",
+        "number": 451,
+        "summary": "Un explosivo show de preguntas y respuestas que combina el saber con el suspenso y el drama de las películas de acción. En este juego cada pregunta está representada con una bomba y cada respuesta incorrecta es un cable que deben cortar."
+    },
+    {
+        "id": "5ed6828192e8b3000743ef61",
+        "name": "Wipe Out",
+        "number": 455,
+        "summary": "WIPEOUT. La carrera de obstáculos más divertida donde verás las caídas más graciosas de la televisión. Disfruta de una competencia llena de juegos de equilibrio, fuerza, y velocidad en la que los participantes ponen a prueba todas sus destrezas."
+    },
+    {
+        "id": "6495af324c014a000842e923",
+        "name": "Desafío Super Humanos",
+        "number": 462,
+        "summary": "Desafío Super Humanos es un programa que muestra a personas ordinarias superando límites\nfísicos y mentales a través de desafíos extremos y pruebas de resistencia, revelando el\nextraordinario potencial del cuerpo humano y su capacidad de supervivencia."
+    },
+    {
+        "id": "5dd85eac039bba0009e86d1d",
+        "name": "Pluto TV Naturaleza",
+        "number": 477,
+        "summary": "Explora los lugares más impactantes de nuestro planeta. Sumérgete en los más profundos océanos, escala las montañas más altas, recorre impenetrables selvas y vastos desiertos, emprende un viaje infinito con Pluto TV Naturaleza."
+    },
+    {
+        "id": "5f4fed840a2764000720d966",
+        "name": "Paisajes por Stingray",
+        "number": 480,
+        "summary": "En Pluto TV Paisajes por Stingray desconecta de las complicaciones de tu entorno y conecta con la belleza de la naturaleza. Disfruta en este canal de hermosas vistas de paraísos tropicales e imágenes deslumbrantes acompañadas de una música fondo relajante"
+    },
+    {
+        "id": "5dd834c66fe2ca0009303b8d",
+        "name": "Pluto TV Animales",
+        "number": 483,
+        "summary": "Todas las maravillas que nos regala el mundo animal están en PlutoTV Animales, el canal donde te pueden rugir, ladrar o llenar de ternura para siempre sorprenderte y mejorar tu día. Desde los más salvajes hasta los más amigables: Pluto TV Animales."
+    },
+    {
+        "id": "61099f2b40d0640007fc5aa2",
+        "name": "El Encantador de Perros",
+        "number": 486,
+        "summary": "Con una habilidad única para ver el mundo a través de sus ojos, el experto en adiestramiento canino César Millán rehabilita perros conflictivos para solucionar problemas de actitud, tanto de los canes como de los dueños."
+    },
+    {
+        "id": "5ddc266f80e3550009136843",
+        "name": "Pluto TV Aventura",
+        "number": 489,
+        "summary": "Llega Pluto TV Aventura, la dosis de adrenalina que estabas buscando. Vive a base de pura acción las 24 horas del día, con los mejores programas de cacerías, persecuciones y mucho más. Sólo lo tendrás en Pluto TV Aventura."
+    },
+    {
+        "id": "62154548a2be360007cb02f0",
+        "name": "Ice Pilots",
+        "number": 492,
+        "summary": "Ice Pilots trata sobre una aerolínea excéntrica y su tripulación que vuela aviones antiguos en imposibles misiones árticas. Buffalo Airways atrae a jóvenes pilotos que buscan aventuras en el Ártico y la oportunidad de volar aviones grandes y antiguos."
+    },
+    {
+        "id": "5dd6dc7480e3550009133d4a",
+        "name": "Pluto TV Velocidad",
+        "number": 500,
+        "summary": "Pluto TV Velocidad es el canal para los amantes de los autos y la adrenalina. Con una programación dedicada a los fanáticos de los motores, abróchate el cinturón y prepárate para disfrutar de un viaje a toda velocidad."
+    },
+    {
+        "id": "656e465b9d5ac400083d2db9",
+        "name": "Franky Mostro",
+        "number": 502,
+        "summary": "Descubre el universo de los motores junto al experto en autos Franky Mostro. Acompáñalo a recorrer el mundo, donde hará pruebas en todos los terrenos posibles, compartirá los mejores consejos sobre manejo, y nos mostrará los más increíbles talleres."
+    },
+    {
+        "id": "64025592953da40008bf9238",
+        "name": "Obsesión por los Autos",
+        "number": 503,
+        "summary": "En \"Obsesión por los autos\", Danny \"The Count\" Koker y su equipo restauran, personalizan y venden autos rápidamente. Míralos luchar por mantener vivir su negocio de Las Vegas Donde queda restauración es una verdadera apuesta."
+    },
+    {
+        "id": "656e2536fbc15b00084ae29d",
+        "name": "Mi Coche Clásico",
+        "number": 504,
+        "summary": "Bienvenido al apasionante mundo de los autos clásicos. Descubre la historia, la belleza y la emoción de estos legendarios vehículos a través de exposiciones, restauraciones y viajes. Todo de la mano de Dennis Gage y su particular bigote."
+    },
+    {
+        "id": "60e5ea9a9bb4200008376f76",
+        "name": "Motorvision TV",
+        "number": 509,
+        "summary": "Motorvision TV es un canal para los amantes de los deportes a motor en todas sus formas. Revive carreras legendarias, admira autos espectaculares y disfruta de toda la acción hasta quedarte sin aliento."
+    },
+    {
+        "id": "5df265697ec3510009df1ef0",
+        "name": "Pluto TV Vida Real",
+        "number": 515,
+        "summary": "El mundo está lleno de dificultades y momentos tensos por enfrentar a diario, y todo queda registrado en Pluto TV Vida Real, un verdadero huracán de misterios médicos, rescates críticos o seguridad fronteriza."
+    },
+    {
+        "id": "6419ab7c9189ce000865a469",
+        "name": "COPS",
+        "number": 518,
+        "summary": "En COPS acompaña a verdaderos policías mientras patrullan las calles. prepárate para verlos participar de persecuciones a alta velocidad, realizar los arrestos más salvajes y verlos involucrarse en las situaciones más peligrosas."
+    },
+    {
+        "id": "5f9992c685a2a80007fa414a",
+        "name": "Dog el cazarrecompensas",
+        "number": 521,
+        "summary": "Los fugitivos ya no están tranquilos porque llega Dog el Cazarrecompensas. 24 horas con las mejores cacerías en busca de los prófugos más peligrosos."
+    },
+    {
+        "id": "5f23102d5e239d00074b092a",
+        "name": "Empeños a lo bestia",
+        "number": 524,
+        "summary": "En este canal pasarás las 24 horas viendo el día a día de una verdadera casa de empeños que lleva más de 3 generaciones haciendo negocios. Pluto TV Empeños a lo bestia, donde el cliente nunca tiene la razón."
+    },
+    {
+        "id": "6109ab25b84d6a0007504886",
+        "name": "Pluto TV Mi Obsesión Favorita",
+        "number": 527,
+        "summary": "¿A quién no le gusta fisgonear en la vida de los demás? Ahora podrás hacerlo y descubrir las manías más extrañas y las colecciones más extravagantes. Mi obsesión favorita es un canal que te permitirá hacer todo y mucho más. Gratis en Pluto TV"
+    },
+    {
+        "id": "5f230e416b68ff00075b0139",
+        "name": "Misterios Medicos",
+        "number": 542,
+        "summary": "En Pluto TV Misterios Médicos conocerás los casos más extraños y las cirugías más impactantes dadas bajo las condiciones más adversas, raras y controversiales."
+    },
+    {
+        "id": "5dcde2f53449c50009b2b4dc",
+        "name": "Pluto TV Misterios",
+        "number": 545,
+        "summary": "Si eres fan de las teorías conspirativas, este canal es para ti.\nDescubre toda la verdad sobre los secretos mejor guardados en Pluto TV Misterios."
+    },
+    {
+        "id": "5f4d3696d938c900072679fd",
+        "name": "Historias de Ultratumba",
+        "number": 550,
+        "summary": "Hechos espeluznantes al margen de la realidad, puertas que se abren hacia lo desconocido, 24 hrs de experiencias paranormales. Todo esto y mucho más en Historias de Ultratumba, en Pluto TV."
+    },
+    {
+        "id": "645d1abbe1979c0008779d5a",
+        "name": "Archivos Extraterrestres",
+        "number": 552,
+        "summary": "Explora los misterios del universo en Archivos Extraterrestres. Únete a nosotros en un viaje fascinante a través de encuentros cercanos, avistamientos y teorías sobre la vida alienígenea. Descubre los secretos más profundos del cosmos en este canal."
+    },
+    {
+        "id": "63a084934734f30007457b2c",
+        "name": "Smithsonian Channel Pluto TV",
+        "number": 560,
+        "summary": "En Smithsonian Channel Pluto TV disfrutarás de una muy variada de documentales. Aprenderás sobre cultura, datos científicos e historia. Un canal ideal para esas personas curiosas, que siempre quieren aprender algo nuevo."
+    },
+    {
+        "id": "5de5758e1a30dc00094fcd6c",
+        "name": "Pluto TV Historia",
+        "number": 563,
+        "summary": "El pasado está lleno de acontecimientos que marcan nuestro presente, y para conocerlos a fondo está Pluto TV Historia, la mejor forma de recorrer esos grandes momentos de la humanidad a través de programas y documentales hechos para educar y entretener."
+    },
+    {
+        "id": "5dd8364ea1d6780009929902",
+        "name": "Pluto TV Ciencia",
+        "number": 572,
+        "summary": "Los sucesos científicos más asombrosos, entrevistas a los más reconocidos personajes de la ciencia, experimentos y mucho más, las 24 hs, los 7 días de la semana."
+    },
+    {
+        "id": "5dcde27ffae9520009c0c75a",
+        "name": "Pluto TV Investiga",
+        "number": 578,
+        "summary": "¿Eres fanático de resolver los hechos más enigmáticos y misteriosos? Naciste para investigar, cuestionas todo, eres detallista y análitico. Todos tenemos algo de detective."
+    },
+    {
+        "id": "6109a9f5531b840007a4a187",
+        "name": "Cazador de Homicidas",
+        "number": 583,
+        "summary": "Joe Kenda fue uno de los detectives de homicidio más exitosos. Aquí te contará sobre sus antiguos casos y cómo logró resolverlos para atrapar a los más peligrosos criminales. No te pierdas Cazador de Homicidas, gratis en Pluto TV."
+    },
+    {
+        "id": "5e67d41b93312100076f3fca",
+        "name": "Los archivos del FBI",
+        "number": 588,
+        "summary": "Todos los días, a toda hora y en los lugares más variados... hay mucho qué descubrir. Los Archivos del FBI llega con su gran poderío al servicio de la investigación."
+    },
+    {
+        "id": "5efb8c19b2678b000780d032",
+        "name": "Archivos Forenses",
+        "number": 593,
+        "summary": "Misterios sin develar, casos que buscan una resolución. Evidencias y entrevistas que ayudan a resolver historias reales, accidentes y hasta enfermedades. Los casos reales más impactantes están en el canal Archivos Forenses."
+    },
+    {
+        "id": "5ea71d48af1d0b0007d837f4",
+        "name": "The New Detectives",
+        "number": 597,
+        "summary": "El trabajo de los forenses y expertos más distinguidos en criminalística mundial, reunido en un solo canal. Disfruta de las investigaciones más apasionantes y los casos más renombrados, en The New Detectives"
+    },
+    {
+        "id": "5f610042272f68000867685b",
+        "name": "Misterios sin Resolver",
+        "number": 601,
+        "summary": "Robert Stack presenta “Misterios sin resolver” la serie que perturbará todos tus sentidos con los casos más espeluznantes y misteriosos de la historia. Disfruta -si puedes- todos los días este canal con 24 hrs continuas de Misterios sin resolver."
+    },
+    {
+        "id": "62310d5a5dc9550007c6f580",
+        "name": "CBS News",
+        "number": 677,
+        "summary": "CBS News, uno de los canales de noticias más prestigiosos llega a Pluto TV. Infórmate sobre todo lo que pasa en el mundo de la mano de los mejores periodistas. Y todo en idioma original. Si quieres estar informado las 24 horas éste es tu canal."
+    },
+    {
+        "id": "619d59b7cbef25000728221c",
+        "name": "Euronews Español",
+        "number": 685,
+        "summary": "\"Euronews\" es el único canal de noticias internacional con una perspectiva europea. Su misión es permitir que cada uno se forme su propia opinión. Euronews se define por su imparcialidad e independencia. Euronews es “All Voices” (todas las voces)."
+    },
+    {
+        "id": "63d2c140c111bc0008cb890b",
+        "name": "TeleFórmula",
+        "number": 705,
+        "summary": "TeleFórmula tiene una programación enfocada en noticias de actualidad, tanto de México como del mundo, finanzas, tecnología y farándula entre muchas cosas más. La mejor forma de estar informado todo el tiempo es mirando TeleFórmula."
+    },
+    {
+        "id": "652e922db4b047000825f975",
+        "name": "Milenio Televisión",
+        "number": 707,
+        "summary": "Milenio Television, el canal que te mantiene al tanto con la información más relevante y precisa. Con reportajes, análisis y cobertura en tiempo real. Aquí te informas sobre deportes, economía, espectáculos y todo lo que ocurre en la actualidad."
+    },
+    {
+        "id": "5dcde07af1c85b0009b18651",
+        "name": "Pluto TV Deportes",
+        "number": 827,
+        "summary": "La dulce victoria y la amarga derrota conviven aquí, en Pluto TV Deportes. Un canal donde vivirás las emociones más intensas, verás a los mejores atletas, disfrutarás de excelentes análisis y te dejarás atrapar por las entrevistas más interesantes."
+    },
+    {
+        "id": "6582f002a620e3000813b329",
+        "name": "Azteca Deportes Network",
+        "number": 829,
+        "summary": "Azteca Deportes te trae cobertura de eventos, emocionantes transmisiones en vivo y análisis detallado de todos los deportes. Brinda a los fanáticos información sobre todo lo que pasa en el mundo del deporte de la mano de expertos en cada disciplina."
+    },
+    {
+        "id": "6320d80a66666000086712d7",
+        "name": "Claro Sports",
+        "number": 835,
+        "summary": "Disfruta de la mejor cobertura deportiva en Latinoamérica, producciones propias y eventos exclusivos, a través del canal Claro Sports en Pluto TV."
+    },
+    {
+        "id": "63f7e3f9dff38e00082a57af",
+        "name": "ITV Deportes",
+        "number": 839,
+        "summary": "En  ITV Deportes vas a poder ver los mejores partidos exclusivos de la Liga Mexicana de Béisbol, la Liga Nacional de Baloncesto Profesional, la Liga de Fútbol Americano y programas originales de diversos temas deportivos."
+    },
+    {
+        "id": "5e98b0447665f200078caded",
+        "name": "Pluto TV Peleas",
+        "number": 850,
+        "summary": "Las artes marciales mixtas están en Pluto TV Peleas. Todo el contenido que los fanáticos de las luchas quieren ver. El Combate Américas, Impact Wrestling, Hard Knocks Fighting y los torneos más importantes del circuito en un solo canal. Pluto TV Peleas."
+    },
+    {
+        "id": "5f99a772c54853000797bf18",
+        "name": "Lucha Libre AAA",
+        "number": 855,
+        "summary": "¡Mira la lucha mexicana de alto octanaje 24/7 en Lucha Libre AAA! Máscaras de colores, movimientos de alto vuelo y emoción internacional te asaltan con fuerza y rapidez en este canal salvaje y emocionante."
     },
     {
         "id": "64df7a9a44fe100009b6ac5a",
@@ -900,130 +624,10 @@
         "summary": "PFL trae el formato más competitivo al MMA, donde cada lucha cuenta de cara al PFL World Championship y su premio de un millón de dólares. Disfruta de las mejores peleas, resúmenes y comentarios sobre MMA con PFL en Pluto TV."
     },
     {
-        "id": "64fb1f6e6625510008c00848",
-        "name": "Homeful",
-        "number": 1181,
-        "summary": "Las caras más conocidas de la renovación de hogares están en este canal. Prepárate para ver renovaciones increíbles y transformaciones sorprendentes. Además, podrás aprender consejos prácticos para aplicar en tu propia casa."
-    },
-    {
-        "id": "64ff26233efb5100082eeb2e",
-        "name": "Infierno Sobre Ruedas",
-        "number": 128,
-        "summary": "Infierno Sobre Ruedas es una serie ambientada en el Salvaje Oeste que sigue la historia de Cullen Bohannon, quién busca venganza contra los soldados que mataron a su esposa e hijo. No te pierdas esta serie llena de drama y acción."
-    },
-    {
-        "id": "64ff270f30ab3300084e259c",
-        "name": "Rookie Blue: Policías Novatos",
-        "number": 127,
-        "summary": "Rookie Blue: Policías Novatos es una emocionante serie policial que sigue a jóvenes reclutas en su primer trabajo en la fuerza, enfrentando desafíos tanto en el deber como en sus vidas mientras forjan relaciones y luchan contra crímenes en la ciudad."
-    },
-    {
-        "id": "652e91fd6208700008dcaf7b",
-        "name": "Canal 6 CdMX",
-        "number": 1118,
-        "summary": "Canal 6 CdMx, el espacio televisivo donde convergen la información precisa, el mejor entretenimiento y los programas más interesantes. Música, entrevistas, información y chimentos conviven en un solo lugar."
-    },
-    {
-        "id": "652e922db4b047000825f975",
-        "name": "Milenio Televisión",
-        "number": 707,
-        "summary": "Milenio Television, el canal que te mantiene al tanto con la información más relevante y precisa. Con reportajes, análisis y cobertura en tiempo real. Aquí te informas sobre deportes, economía, espectáculos y todo lo que ocurre en la actualidad."
-    },
-    {
-        "id": "655f62ff954b020008c91ec6",
-        "name": "Pluto TV Series de Crimen",
-        "number": 102,
-        "summary": "¡Adéntrate en el oscuro y adictivo universo del crimen! Descubre intrigas, giros inesperados y el suspenso más intenso en nuestras series. Misterios y asesinatos te esperan en las series más impactantes sobre crimen y detectives."
-    },
-    {
-        "id": "655f636d954b020008c93299",
-        "name": "Pluto TV Series de Drama",
-        "number": 160,
-        "summary": "Descubre la profundidad de las emociones humanas con nuestras series dramáticas. Desde conflictos personales hasta pasiones avasalladoras. Prepárate para una montaña rusa emocional que te mantendrá al borde del asiento en cada escena."
-    },
-    {
-        "id": "656e2536fbc15b00084ae29d",
-        "name": "Mi Coche Clásico",
-        "number": 504,
-        "summary": "Bienvenido al apasionante mundo de los autos clásicos. Descubre la historia, la belleza y la emoción de estos legendarios vehículos a través de exposiciones, restauraciones y viajes. Todo de la mano de Dennis Gage y su particular bigote."
-    },
-    {
-        "id": "656e28a2954b020008ed133a",
-        "name": "Dora, La Exploradora",
-        "number": 1403,
-        "summary": "¡Acompaña a Dora y su mono Botas en emocionantes aventuras! Explora un mundo lleno de diversión y aprendizaje mientras la ayudas a resolver misterios y rompecabezas. ¡Únete a la diversión con Dora la Exploradora!"
-    },
-    {
-        "id": "656e465b9d5ac400083d2db9",
-        "name": "Franky Mostro",
-        "number": 502,
-        "summary": "Descubre el universo de los motores junto al experto en autos Franky Mostro. Acompáñalo a recorrer el mundo, donde hará pruebas en todos los terrenos posibles, compartirá los mejores consejos sobre manejo, y nos mostrará los más increíbles talleres."
-    },
-    {
-        "id": "656f37f257fe4a000884dfee",
-        "name": "Boruto: Naruto Next Generations",
-        "number": 1261,
-        "summary": "Boruto, hijo del legendario Naruto, es un ninja con un espíritu rebelde. Ansioso por trazar su propio camino en un mundo shinobi moderno, enfrenta desafíos que van más allá de su linaje."
-    },
-    {
-        "id": "6582f002a620e3000813b329",
-        "name": "Azteca Deportes Network",
-        "number": 829,
-        "summary": "Azteca Deportes te trae cobertura de eventos, emocionantes transmisiones en vivo y análisis detallado de todos los deportes. Brinda a los fanáticos información sobre todo lo que pasa en el mundo del deporte de la mano de expertos en cada disciplina."
-    },
-    {
-        "id": "65d916a2f7f0af0008b6540d",
-        "name": "Hunter x Hunter",
-        "number": 1263,
-        "summary": "Entra al fascinante mundo de Hunter x Hunter. Descubre los misterios, aventuras y poderes extraordinarios mientras exploramos la magia de este anime épico. ¡Únete a la caza y vive la intensidad de cada momento!"
-    },
-    {
-        "id": "65df7272ec9fda0008b7a970",
-        "name": "South Park: Colección Kenny",
-        "number": 923,
-        "summary": "¿Pero cuántas veces ha muerto Kenny? Este canal está dedicado a los mejores episodios protagonizados por tu personaje favorito de South Park: ¡Kenny!"
-    },
-    {
-        "id": "65df72db18036500081a8292",
-        "name": "South Park: Colección Stan",
-        "number": 925,
-        "summary": "¿Eres fan del tranquilo y prudente Stan? Este canal está dedicado a los mejores episodios de tu personaje favorito de South Park: ¡Stan!"
-    },
-    {
-        "id": "65df731cec9fda0008b7aa8d",
-        "name": "South Park: Colección Cartman",
-        "number": 922,
-        "summary": "¿Quién es el más manipulador, rencoroso y travieso de South Park? ¡Eric Cartman! Este canal está dedicado a los mejores episodios del \"Chico Malo\" de South Park."
-    },
-    {
-        "id": "65df73520d4561000817c29b",
-        "name": "South Park: Colección Kyle",
-        "number": 924,
-        "summary": "Kyle es crítico, inteligente y un poco friki. Este es el canal para aquellos que no se cansan de que el dulce Kyle pierda los estribos (especialmente con Cartman)."
-    },
-    {
-        "id": "6643b8c42eafd40008daab8b",
-        "name": "PRIDEtv",
-        "number": 1028,
-        "summary": "PRIDEtv es el canal de televisión sobre estilo de vida para la comunidad LGBTQI+ con películas de autor galardonadas, documentales cautivadores, series queer, cortometrajes, reality shows y programas de televisión originales. ¡Tu orgullo comienza aquí!"
-    },
-    {
-        "id": "6650bf1a3d173b00081c8279",
-        "name": "South Park: Celebrities",
-        "number": 919,
-        "summary": "Apariciones y parodias de las mayores estrellas que han aparecido en South Park"
-    },
-    {
-        "id": "665fb022f78a8500095965a9",
-        "name": "La Academia",
-        "number": 375,
-        "summary": "Disfruta del reality de música más importante de México, La Academia, donde jóvenes\ncantantes compiten semana a semana con emocionantes conciertos y críticas en donde\nel público vota por su alumno favorito."
-    },
-    {
-        "id": "6661d5424b10960008599fa3",
-        "name": "Pluto TV Dramas Coreanos Teen",
-        "number": 181,
-        "summary": "Descubre las mejores series coreanas para adolescentes en un canal pensado exclusivamente para ti. Pluto TV Dramas Coreanos Teen es el lugar ideal donde podrás disfrutar de excelentes series con historias para jóvenes realmente apasionantes."
+        "id": "64b02bbd7d93410008fdae60",
+        "name": "DAZN Women's Football",
+        "number": 871,
+        "summary": "DAZN Women’s Football ofrece a los fanáticos asientos de primera fila para disfrutar de la mejor acción del fútbol femenino, incluida la UEFA Women’s Champions League en vivo, la Liga F, documentales y mucho más acceso detrás de escena."
     },
     {
         "id": "66997d18a1b69e00082ee85f",
@@ -1032,16 +636,394 @@
         "summary": "¡Entretenimiento futbolístico para los aficionados! Mira documentales, series originales y partidos selectos en vivo, así como momentos históricos de la Copa Mundial de la FIFA™️, la Copa Mundial de Clubes de la FIFA™️, la Copa Mundial Femenina de la FIFA"
     },
     {
-        "id": "66a01adf46762a00081ee3dc",
-        "name": "Yo! MTV",
-        "number": 1511,
-        "summary": "Yo! MTV celebra los últimos y mejores videos musicales de Hip-Hop. ¡Seleccionamos cuidadosamente a los artistas latinos, R&B y de rap más populares para que comience cualquier fiesta!"
+        "id": "6650bf1a3d173b00081c8279",
+        "name": "South Park: Celebrities",
+        "number": 919,
+        "summary": "Apariciones y parodias de las mayores estrellas que han aparecido en South Park"
     },
     {
-        "id": "66a01b52a4ee27000808ea36",
-        "name": "MTV Rocks",
-        "number": 1504,
-        "summary": "¿Eres fanático de las guitarras ruidosas y los riffs asesinos? MTV Rocks te ofrece la mejor mezcla de videos musicales de rock."
+        "id": "65df731cec9fda0008b7aa8d",
+        "name": "South Park: Colección Cartman",
+        "number": 922,
+        "summary": "¿Quién es el más manipulador, rencoroso y travieso de South Park? ¡Eric Cartman! Este canal está dedicado a los mejores episodios del \"Chico Malo\" de South Park."
+    },
+    {
+        "id": "65df7272ec9fda0008b7a970",
+        "name": "South Park: Colección Kenny",
+        "number": 923,
+        "summary": "¿Pero cuántas veces ha muerto Kenny? Este canal está dedicado a los mejores episodios protagonizados por tu personaje favorito de South Park: ¡Kenny!"
+    },
+    {
+        "id": "65df73520d4561000817c29b",
+        "name": "South Park: Colección Kyle",
+        "number": 924,
+        "summary": "Kyle es crítico, inteligente y un poco friki. Este es el canal para aquellos que no se cansan de que el dulce Kyle pierda los estribos (especialmente con Cartman)."
+    },
+    {
+        "id": "65df72db18036500081a8292",
+        "name": "South Park: Colección Stan",
+        "number": 925,
+        "summary": "¿Eres fan del tranquilo y prudente Stan? Este canal está dedicado a los mejores episodios de tu personaje favorito de South Park: ¡Stan!"
+    },
+    {
+        "id": "609ae5cd48d3200007b0a98e",
+        "name": "Comedy Central South Park",
+        "number": 929,
+        "summary": "South Park la icónica serie animada que marcó un antes y un después en la TV, llega a Pluto TV. Para que te rías a carcajadas con Kyle, Stan, Kenny y Cartman. Disfruta de los legendarios episodios que marcaron una era, gratis en Comedy Central South Park."
+    },
+    {
+        "id": "62d0895ebe7a970008785244",
+        "name": "Daria",
+        "number": 934,
+        "summary": "Daria, la exitosa serie de MTV, ahora está en Pluto TV. Vuelve a ver cómo una chica inteligente y cínica atraviesa la adolescencia como una extraña en un mundo de jóvenes superficiales."
+    },
+    {
+        "id": "62d08af527ce19000731eaa0",
+        "name": "La Familia del Barrio",
+        "number": 939,
+        "summary": "El exitosísimo dibujo para adultos La familia del barrio está en PlutoTV. Esta familia mexicana se burlará de la realidad con altas dosis de humor negro. Todo puede pasar en esta divertida serie."
+    },
+    {
+        "id": "5e8397936791b30007ebb5a7",
+        "name": "Pluto TV Humor",
+        "number": 994,
+        "summary": "Comienza a despedirte del control remoto, porque con Pluto TV Humor te vas a descontrolar. Las mejores bromas, bloopers y situaciones divertidas en un canal donde el humor explota a cada instante las 24 horas."
+    },
+    {
+        "id": "5ffcc21a432945000762d06b",
+        "name": "Comedy Central Pluto TV",
+        "number": 999,
+        "summary": "Comedy Central, la marca #1 de comedia en el mundo, también es parte de Pluto TV. Si tienes ganas de reír ya no te quedan excusas.\nDisfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duelo de comediantes y mucho más."
+    },
+    {
+        "id": "633dc8684bf50b00074a46b1",
+        "name": "Backdoor",
+        "number": 1004,
+        "summary": "En Pluto TV vas a poder disfrutar del canal de Backdoor. Aquí creamos comedia de verdad. Tenemos sketches de situaciones cotidianas y sketches de humor absurdo."
+    },
+    {
+        "id": "5ebaccf1734aaf0007142c86",
+        "name": "FailArmy",
+        "number": 1009,
+        "summary": "Sumérgete en un mundo de carcajadas, sobresaltos y fallas, fallas y más fallas. La mejor programación  con los videos más graciosos del mundo. Una alta dosis de accidentes, bloopers y momentos fallidos que te harán morir de risa, en Fail Army."
+    },
+    {
+        "id": "5ebacbcae43a6d000787b88e",
+        "name": "The Pet Collective",
+        "number": 1014,
+        "summary": "Animales y mascotas. Ciencia y amor. Emoción y humor. Todo eso y mucho más en The Pet Collective, el canal dedicado a los mejores amigos del planeta. Disfruta de los memes más divertidos y los momentos más emotivos protagonizados por animales."
+    },
+    {
+        "id": "6643b8c42eafd40008daab8b",
+        "name": "PRIDEtv",
+        "number": 1028,
+        "summary": "PRIDEtv es el canal de televisión sobre estilo de vida para la comunidad LGBTQI+ con películas de autor galardonadas, documentales cautivadores, series queer, cortometrajes, reality shows y programas de televisión originales. ¡Tu orgullo comienza aquí!"
+    },
+    {
+        "id": "63ceb6ff60bc8f00088dc625",
+        "name": "Teatrix",
+        "number": 1036,
+        "summary": "Disfruta de las más cautivadoras, divertidas y emocionantes obras de teatro en la comodidad de tu hogar. Déjate llevar por las brillantes actuaciones, la magia del escenario y las historias que te conmoverán en este canal dedicado al teatro."
+    },
+    {
+        "id": "613237a1c9e0db0007a91350",
+        "name": "Telefe Pluto TV",
+        "number": 1052,
+        "summary": "Telefe, el canal número 1 de Argentina llega a Pluto TV con lo mejor de su programación. Para que disfrutes de sus shows más exitosos. Novelas, series, viajes y 4 ediciones en vivo de noticias. Todo en un solo lugar."
+    },
+    {
+        "id": "620e67a63b5e370007e06bb2",
+        "name": "Chiquititas",
+        "number": 1058,
+        "summary": "Chiquititas la serie que fue un éxito vuelve las 24hs a Pluto TV para vos. Revive la historia del hogar Rincón de Luz y emociónate nuevamente como la primera vez.. Comparte sus sueños, sus canciones, y toda la magia."
+    },
+    {
+        "id": "63f6294449839300085c4bd2",
+        "name": "Rincón de Luz",
+        "number": 1059,
+        "summary": "Rincón de Luz cuenta la historia de un grupo de niños que viven en un hogar de huérfanos. Ellos aprenden a valorar la importancia de la familia, la amistad y la solidaridad a través de la música y las situaciones divertidas que irán viviendo."
+    },
+    {
+        "id": "6132429ec9e0db0007a91425",
+        "name": "Susana Giménez",
+        "number": 1061,
+        "summary": "Susana y Pluto TV repasan 30 años de historia. Desde sus sketchs , los talentos freaks, las entrevistas a estrellas conocidas mundialmente, las perlitas y los musicales de artistas nacionales e internacionales junto a los juegos que hicieron historia."
+    },
+    {
+        "id": "5de91cf02fc07c0009910465",
+        "name": "Telefe Hits",
+        "number": 1065,
+        "summary": "Telefe Hits es tu destino obligado para encontrar y revivir las telenovelas más populares, los mejores dramas y las comedias románticas más divertidas de Telefe, el canal de televisión abierta líder en audiencia de Argentina."
+    },
+    {
+        "id": "646cce4d1593940008a33f09",
+        "name": "Azteca Internacional",
+        "number": 1103,
+        "summary": "Azteca Internacional es un canal con cobertura en toda Latinoamérica y el resto del mundo. Ofreciendo el mejor entretenimiento, noticias, telenovelas y series nuevas para toda la familia."
+    },
+    {
+        "id": "652e91fd6208700008dcaf7b",
+        "name": "Canal 6 CdMX",
+        "number": 1118,
+        "summary": "Canal 6 CdMx, el espacio televisivo donde convergen la información precisa, el mejor entretenimiento y los programas más interesantes. Música, entrevistas, información y chimentos conviven en un solo lugar."
+    },
+    {
+        "id": "5dcddfbdb7cf0e0009ae09ea",
+        "name": "Pluto TV Viajes",
+        "number": 1154,
+        "summary": "Los océanos más profundos, las montañas más altas o los destinos inimaginables están en Pluto TV Viajes, tu pasaje al asombro y a todas las emociones que te aguardan conociendo las culturas y los lugares realmente inspiradores de nuestro planeta."
+    },
+    {
+        "id": "5dd6ab8056beb000091fc6b6",
+        "name": "Pluto TV Hogar",
+        "number": 1179,
+        "summary": "No importa donde vivamos, todos siempre soñamos con mudarnos a una casa increíble. En Pluto TV Hogar conocerás las más espectaculares. ¡Vas a querer quedarte a vivir en Pluto TV Hogar!"
+    },
+    {
+        "id": "64fb1f6e6625510008c00848",
+        "name": "Homeful",
+        "number": 1181,
+        "summary": "Las caras más conocidas de la renovación de hogares están en este canal. Prepárate para ver renovaciones increíbles y transformaciones sorprendentes. Además, podrás aprender consejos prácticos para aplicar en tu propia casa."
+    },
+    {
+        "id": "5dcde0657444a40009cd2422",
+        "name": "Pluto TV Cocina",
+        "number": 1199,
+        "summary": "Te presentamos Pluto TV Cocina, un canal elaborado para los amantes del buen comer. Recetas creadas con amor, historias fascinantes, delicias exóticas, restaurantes de alta cocina y momentos únicos junto a los más exclusivos y premiados chefs."
+    },
+    {
+        "id": "609062295c2b8f0007199e7a",
+        "name": "Pluto TV Recetas",
+        "number": 1204,
+        "summary": "Si te gusta cocinar, este canal es para ti. En PlutoTv Recetas aprenderás a realizar los más deliciosos y tentadores platos en recetas muy fáciles de seguir. Aprende nuevas técnicas y secretos para deslumbrar a todos, con los manjares más espectaculares."
+    },
+    {
+        "id": "5f998c1fc54853000797bacd",
+        "name": "Tastemade",
+        "number": 1209,
+        "summary": "Un canal con contenido premium de comida, viajes, hogar y diseño de todo el mundo. Vas a poder disfrutar desde los documentales más originales hasta las recetas más clásicas las 24 horas del día, los 7 días de la semana."
+    },
+    {
+        "id": "5dcde17bf6591d0009839e02",
+        "name": "Pluto TV Anime",
+        "number": 1251,
+        "summary": "La mejor animación oriental está en Pluto TV Anime. Con historias adultas, atrapantes y divertidas, acompañadas por una animación de excelente calidad. Descubre nuevas series o vuelve a ver los clásicos de los que te enamoraste."
+    },
+    {
+        "id": "5e6a4d875d7ccf0007cc2cf1",
+        "name": "Pluto TV Animé Acción",
+        "number": 1254,
+        "summary": "Es hora de que el público más grande tenga su recompensa: PLUTO TV ANIME ACCIÓN, el canal para los que quieren revivir los clásicos favoritos del Dark Animé como Death Note, Naruto y Bleach. A prepararse porque la acción de estas historias comienza aquí."
+    },
+    {
+        "id": "5ee92e72fb286e0007285fec",
+        "name": "Naruto",
+        "number": 1259,
+        "summary": "Acompaña a Naruto en sus increíbles aventuras camino a convertirse en el gran Hokage de su aldea. Gratis para ti un canal donde las 24 horas están dedicadas al mítico ninja. Disfruta de Naruto en Pluto TV."
+    },
+    {
+        "id": "64c92fea3c3344000869e8a9",
+        "name": "Naruto Shippuden",
+        "number": 1260,
+        "summary": "Naruto Shippuden, una emocionante y épica serie de anime que sigue la evolución del valiente ninja Naruto mientras lucha por proteger a sus seres queridos y superar sus propios demonios internos."
+    },
+    {
+        "id": "656f37f257fe4a000884dfee",
+        "name": "Boruto: Naruto Next Generations",
+        "number": 1261,
+        "summary": "Boruto, hijo del legendario Naruto, es un ninja con un espíritu rebelde. Ansioso por trazar su propio camino en un mundo shinobi moderno, enfrenta desafíos que van más allá de su linaje."
+    },
+    {
+        "id": "65d916a2f7f0af0008b6540d",
+        "name": "Hunter x Hunter",
+        "number": 1263,
+        "summary": "Entra al fascinante mundo de Hunter x Hunter. Descubre los misterios, aventuras y poderes extraordinarios mientras exploramos la magia de este anime épico. ¡Únete a la caza y vive la intensidad de cada momento!"
+    },
+    {
+        "id": "626c2ed933a2890007e91422",
+        "name": "Death Note",
+        "number": 1264,
+        "summary": "Light Yagami es un estudiante sobresaliente con un futuro brillante que, sin embargo, se muere de aburrimiento. Pero su vida dará un vuelco el día que encuentre el poderoso cuaderno que dejó caer un travieso dios de la muerte Shinigami."
+    },
+    {
+        "id": "5fceaab478f2af00080ff51f",
+        "name": "Yu-Gi-Oh",
+        "number": 1269,
+        "summary": "Un misterioso rompecabezas va a cambiar para siempre la vida de Yugi y lo llevará a un mundo repleto de magia, secretos y enfrentamientos.\nYU-GI-OH llegó a PlutoTV. Para que lo disfrutes todo el día."
+    },
+    {
+        "id": "64666345f3f5b1000882bfb4",
+        "name": "Captain Tsubasa",
+        "number": 1271,
+        "summary": "Captain Tsubasa sigue la historia de Tsubasa, un joven futbolista que persigue sus sueños con pasión y determinación, enfrentando desafíos y demostrando habilidades asombrosas en el campo de juego. Una aventura que cautivará a los fans del fútbol"
+    },
+    {
+        "id": "632119a92c3b880007d3f5dc",
+        "name": "Beyblade",
+        "number": 1274,
+        "summary": "El popular anime Beyblade está en Pluto TV. Acompaña a Tyson y su equipo, los Bladebreakers, en su lucha por convertirse en los mejores bey-luchadores del mundo. Ellos representarán a su país en el mundial de Beyblade ¿podrán lograrlo?"
+    },
+    {
+        "id": "66b26665d512590008c507b7",
+        "name": "Inuyasha",
+        "number": 1279,
+        "summary": "Acompaña a InuYasha y sus amigos en el Japón feudal. Juntos luchan contra demonios y desvelan secretos en busca de la Joya de las Cuatro Almas. Vive una aventura épica donde la magia y la amistad se entrelazan."
+    },
+    {
+        "id": "5ff4b9ccf938f8000779eb99",
+        "name": "One Piece",
+        "number": 1284,
+        "summary": "One Piece, un canal para disfrutar las fascinantes historias de piratas y amistad, donde un grupo de aventureros viaja a través de los océanos y se unen para lograr una misión: Encontrar el mayor de los tesoros. Disfrútalo en Pluto TV."
+    },
+    {
+        "id": "5ff608e60e2996000768c366",
+        "name": "Tokusato",
+        "number": 1294,
+        "summary": "Para los nostálgicos de los grandes clásicos de acción y aventura japonés. Heroes y villanos, en las icónicas series japonesas que marcaron historia.\nHazte fan de Tokusato, en Pluto TV."
+    },
+    {
+        "id": "5ff3934600d4c7000733ff49",
+        "name": "Pluto TV E-Sports",
+        "number": 1324,
+        "summary": "Pluto TV E-Sports te muestra todo lo que quieres saber del mundo del gaming. Con tutoriales, críticas, análisis, noticias y shows dedicados a los juegos más grandes del momento, y a los hits del pasado."
+    },
+    {
+        "id": "5fab09a8749b1a00077d35d2",
+        "name": "Nick Teen",
+        "number": 1352,
+        "summary": "Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca."
+    },
+    {
+        "id": "620ff0a01f9e8700076c6f9d",
+        "name": "Nickelodeon iCarly",
+        "number": 1360,
+        "summary": "Cuando Carly crea su show de internet llamado Icarly se vuelve famosa de la noche a la mañana. Con ayuda de sus amigos y su excéntrico hermano deberá aprender a lidiar con su fama mientras prepara nuevos episodios de su popular show."
+    },
+    {
+        "id": "5fcea93ffcf94500071c4b2f",
+        "name": "Kenan y Kel",
+        "number": 1365,
+        "summary": "Kenan sueña con hacerse rico y para eso siempre pide la ayuda de Kel. Pero en lugar de ayudarlo, él siempre complica las cosas. \nEn este canal disfruta de las alocadas aventuras de Kenan y Kel."
+    },
+    {
+        "id": "5dd6de52b9914200091f047a",
+        "name": "Pluto TV Teen",
+        "number": 1370,
+        "summary": "A los adolescentes no les gusta pasar tiempo con adultos, ellos sólo quieren estar con chicos de su edad. Por es en Pluto TV Teen tenemos las mejores series pensadas para adolescentes y protagonizadas por…adolescentes."
+    },
+    {
+        "id": "6495c6ad115d060008bf6b52",
+        "name": "PAW Patrol Patrulla de Cachorros",
+        "number": 1400,
+        "summary": "Únete a la Patrulla Canina en sus emocionantes misiones de rescate, donde estos valientes cachorros liderados por Ryder usan su ingenio, habilidades y trabajo en equipo para proteger a la comunidad, enseñando valiosas lecciones de amistad."
+    },
+    {
+        "id": "5ddd7cb2cbb9010009b4fe32",
+        "name": "Nick Jr. Club",
+        "number": 1402,
+        "summary": "Bienvenido a Nick Jr Club donde los más pequeños encontrarán a sus amigos favoritos. Desde clásicos como Pistas de Blue, Mascotas Maravillas, Ni Hao Kailan y muchos éxitos más. Todo en los shows de Nick Jr Club."
+    },
+    {
+        "id": "656e28a2954b020008ed133a",
+        "name": "Dora, La Exploradora",
+        "number": 1403,
+        "summary": "¡Acompaña a Dora y su mono Botas en emocionantes aventuras! Explora un mundo lleno de diversión y aprendizaje mientras la ayudas a resolver misterios y rompecabezas. ¡Únete a la diversión con Dora la Exploradora!"
+    },
+    {
+        "id": "5f9996533c9de3000759ccb5",
+        "name": "Las Pistas de Blue",
+        "number": 1405,
+        "summary": "¡Blue tiene mucha energía y quiere jugar contigo! Por eso Pluto TV Pistas de Blue tiene una programación especial con la perrita azul que divierte a las personas de todos los tamaños y edades. Música, juegos y mucha aventura con Blue y sus amigos."
+    },
+    {
+        "id": "619d5e6a093e7c0007489211",
+        "name": "Baby Shark TV",
+        "number": 1410,
+        "summary": "Baby Shark es un canal donde tu hijo podrá bailar, divertirse y aprender. Los más pequeños van a disfrutar de canciones de cuna y lecciones sobre hábitos saludables, letras, colores y mucho más. Todo en Baby Shark, gratis en Pluto tv."
+    },
+    {
+        "id": "5ebac49ce4dc8b00078b23bc",
+        "name": "Babyfirst",
+        "number": 1415,
+        "summary": "Los primeros pasos de tu bebé son más seguros y divertidos con BabyFirst, el canal donde tus hijos aprenden lo básico mediante juegos, colores, números, arte, música y muchas actividades para disfrutar en familia."
+    },
+    {
+        "id": "5dcde2ac4bc6c500094ab45b",
+        "name": "Pluto TV Junior",
+        "number": 1420,
+        "summary": "La diversión completa está en Pluto TV Junior, donde te esperan todas las aventuras de las series animadas y de acción en vivo, en un canal exclusivamente hecho para pasarla increíble en cualquier momento del día."
+    },
+    {
+        "id": "5f29ada4bdaebd000708d49d",
+        "name": "Barney",
+        "number": 1425,
+        "summary": "En su mundo se vuela sin alas, porque la imaginación es el recurso más poderoso. Barney y sus amigos te llevarán \na descubrir que la fantasía está esperando en mil aventuras y experiencias llenas de diversión, ¡y no te puedes quedar fuera!"
+    },
+    {
+        "id": "5f4d3d06fb60d8000781fce8",
+        "name": "El Reino Infantil",
+        "number": 1435,
+        "summary": "El Reino Infantil es el canal donde los más pequeños de la casa podrán disfrutar de las mejores canciones, así como de sus personajes favoritos, todo esto las 24hrs del día."
+    },
+    {
+        "id": "5ddd7c348520b40009c347e2",
+        "name": "Nickelodeon Clásico",
+        "number": 1440,
+        "summary": "Bienvenido a Nickelodeon Clásico donde podrás ver tus shows clásicos favoritos como ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y mucho más! Todo en  Nickelodeon Clásico."
+    },
+    {
+        "id": "5ea7215005d66d0007e8128a",
+        "name": "Rugrats",
+        "number": 1445,
+        "summary": "La amistad, los sueños y las ganas de seguir descubriendo el mundo en Rugrats."
+    },
+    {
+        "id": "6202ab549654c800076ee13f",
+        "name": "Nickelodeon Rocket Power",
+        "number": 1450,
+        "summary": "En Nickelodeon Rocket Power te divertirás con las aventuras de cuatro amigos amantes de la acción y los deportes extremos. Las 24 horas, todos los días. ¡Justo lo que necesitas para divertirte con Rocket Power!"
+    },
+    {
+        "id": "645952687cb4b100084ed52e",
+        "name": "Nickelodeon Pluto TV",
+        "number": 1455,
+        "summary": "¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV."
+    },
+    {
+        "id": "6254598f5083f800076d8563",
+        "name": "Bob Esponja Pantalones Cuadrados",
+        "number": 1460,
+        "summary": "Bob Esponja y todos sus amigos llegaron a Pluto TV. Para que te diviertas con todas sus aventuras. Un canal dedicado exclusivamente a la esponja más famosa de la televisión para que lo disfrutes las 24 horas del día."
+    },
+    {
+        "id": "6322099c822bbc00074857db",
+        "name": "Los Padrinos Mágicos",
+        "number": 1465,
+        "summary": "Timmy es un chico común y corriente. Hasta que un día aparecen sus padrinos mágicos y su vida cambiará completamente. Cosmo y Wanda lo ayudarán con la tarea, a enfrentarse a la malvada niñera y juntos vivirán increíbles aventuras."
+    },
+    {
+        "id": "63dd5d7a4e83e700088fbca8",
+        "name": "Las Tortugas Ninja",
+        "number": 1470,
+        "summary": "Cuatro tortugas mutantes fanáticas de la pizza, entrenadas por su maestro ninja, surgirán de las alcantarillas para combatir el crimen y proteger a la ciudad de Manhattan de todo tipo de amenazas."
+    },
+    {
+        "id": "5dd6dae8ce788b0009eaf77b",
+        "name": "Pluto TV Kids",
+        "number": 1480,
+        "summary": "Todos tienen su espacio de fiesta en Pluto TV Kids. No importa si eres un niño o un niño de corazón, porque la mejor programación para toda la familia está aquí. Ingresa y disfruta las 24 horas, los 7 días de la semana."
+    },
+    {
+        "id": "636e83511fa9600007e5ae19",
+        "name": "Pluto TV Anime Kids",
+        "number": 1485,
+        "summary": "En Pluto TV Anime Kids encontrarás los mejores animes que divertirán a grandes y chicos. Disfruta de Yu-Gi-Oh!, Bakugan, GGO Football y muchísimos más las 24 horas los 365 días del año. La mejor animación de oriente está en este canal."
+    },
+    {
+        "id": "6047fabfce6e8e00070bcc9f",
+        "name": "MTV Biggest Pop",
+        "number": 1502,
+        "summary": "¡Checa esto! MTV BIGGEST POP es tu destino para la mejor música, las más brillantes estrellas y los hits más bailables de la actualidad. Desde Drake y Miley, pasando por Beyoncé y Gaga."
     },
     {
         "id": "66a11a21a79dea0008aa90ca",
@@ -1050,21 +1032,39 @@
         "summary": "¡Ponle música a tu día con MTV Classic, que incluye las mejores y más importantes canciones de los años 80, 90 y 2000!"
     },
     {
-        "id": "66a26a7846762a0008258d4e",
-        "name": "Baywatch",
-        "number": 240,
-        "summary": "La serie que conquistó el mundo ha llegado a tierra en Pluto TV. Si buscas acción, emoción y correr en cámara lenta, Baywatch siempre está aquí, las 24 horas del día."
+        "id": "66a01b52a4ee27000808ea36",
+        "name": "MTV Rocks",
+        "number": 1504,
+        "summary": "¿Eres fanático de las guitarras ruidosas y los riffs asesinos? MTV Rocks te ofrece la mejor mezcla de videos musicales de rock."
     },
     {
-        "id": "66aa6e03fe11e500086038ed",
-        "name": "Al Fondo Hay Sitio",
-        "number": 197,
-        "summary": "LOS GONZÁLES, una familia de lo más campechana, llega a una de las zonas más exclusivas de Lima. Pero todo se complica cuando se cruzan con LOS MALDINI, quienes harán lo imposible para deshacerse de ellos."
+        "id": "6047fd723b5bd00007de7092",
+        "name": "MTV Spankin' New",
+        "number": 1505,
+        "summary": "¡Lo escuchaste primero aquí!  MTV SPANKIN’ NEW es el lugar para descubrir nuevos artistas antes de que se vuelvan estrellas. Las playlists con lo mejor, y lo más novedosos del Pop, Hip-Hop y de las bandas alternativas."
     },
     {
-        "id": "66b26665d512590008c507b7",
-        "name": "Inuyasha",
-        "number": 1279,
-        "summary": "Acompaña a InuYasha y sus amigos en el Japón feudal. Juntos luchan contra demonios y desvelan secretos en busca de la Joya de las Cuatro Almas. Vive una aventura épica donde la magia y la amistad se entrelazan."
+        "id": "62b218fc511d4b00070ddc0c",
+        "name": "MTV Flow Latino",
+        "number": 1507,
+        "summary": "Sumérgete en los ritmos que te aceleran el corazón y las melodías vibrantes de las estrellas más grandes de la música latina."
+    },
+    {
+        "id": "66a01adf46762a00081ee3dc",
+        "name": "Yo! MTV",
+        "number": 1511,
+        "summary": "Yo! MTV celebra los últimos y mejores videos musicales de Hip-Hop. ¡Seleccionamos cuidadosamente a los artistas latinos, R&B y de rap más populares para que comience cualquier fiesta!"
+    },
+    {
+        "id": "5f85ca40eda1b10007b967cd",
+        "name": "Conciertos por Stingray",
+        "number": 1520,
+        "summary": "Llegaron los conciertos y documentales musicales a Pluto TV con las estrellas de hoy y las leyendas de siempre como Queen, Bruce Springsteen, Enrique Iglesias, Imagine Dragons, Katy Perry y muchos más, solo en Pluto TV Conciertos por Stingray."
+    },
+    {
+        "id": "5f85cf621d6d2200079f1de0",
+        "name": "Karaoke por Stingray",
+        "number": 1525,
+        "summary": "En este canal canta todas tus canciones favoritas, desde los clásicos de ayer hasta los éxitos de hoy. ¡Qué comience tu fiesta de karaoke!"
     }
 ]

@@ -1,0 +1,434 @@
+[
+    {
+        "id": "66e9b47b747bfa00083b3ab1",
+        "title": "Marcado por la muerte",
+        "start": "2024-09-24T01:53:00.000Z",
+        "stop": "2024-09-24T04:10:00.000Z"
+    },
+    {
+        "id": "66e9b47b747bfa00083b3ab2",
+        "title": "Street Figther Puño Asesino",
+        "start": "2024-09-24T04:10:00.000Z",
+        "stop": "2024-09-24T07:08:00.000Z"
+    },
+    {
+        "id": "66e1ce9fdd2d690008c75137",
+        "title": "Una pareja de ladrones",
+        "start": "2024-09-24T00:47:00.000Z",
+        "stop": "2024-09-24T02:39:00.000Z"
+    },
+    {
+        "id": "66e1ce9fdd2d690008c75138",
+        "title": "Mi Novio es un Ladrón",
+        "start": "2024-09-24T02:39:00.000Z",
+        "stop": "2024-09-24T04:34:00.000Z"
+    },
+    {
+        "id": "66e1ce9fdd2d690008c75139",
+        "title": "Una familia peligrosa",
+        "start": "2024-09-24T04:34:00.000Z",
+        "stop": "2024-09-24T06:45:00.000Z"
+    },
+    {
+        "id": "66e31ef1be808500080239c4",
+        "title": "Ojos Grandes",
+        "start": "2024-09-24T01:57:00.000Z",
+        "stop": "2024-09-24T04:03:00.000Z"
+    },
+    {
+        "id": "66e31ef1be808500080239c5",
+        "title": "Love Finds You in Valentine",
+        "start": "2024-09-24T04:03:00.000Z",
+        "stop": "2024-09-24T05:52:00.000Z"
+    },
+    {
+        "id": "66e31ef1be808500080239c6",
+        "title": "Corriendo contra el viento",
+        "start": "2024-09-24T05:52:00.000Z",
+        "stop": "2024-09-24T08:07:00.000Z"
+    },
+    {
+        "id": "66e31306b25d2b000803ea3a",
+        "title": "6 Balas",
+        "start": "2024-09-24T01:07:00.000Z",
+        "stop": "2024-09-24T03:21:00.000Z"
+    },
+    {
+        "id": "66e31306b25d2b000803ea3b",
+        "title": "Ultimo Viaje a Las Vegas",
+        "start": "2024-09-24T03:21:00.000Z",
+        "stop": "2024-09-24T05:24:00.000Z"
+    },
+    {
+        "id": "66e31306b25d2b000803ea3c",
+        "title": "El perfume: Historia de un asesino",
+        "start": "2024-09-24T05:24:00.000Z",
+        "stop": "2024-09-24T08:15:00.000Z"
+    },
+    {
+        "id": "66e1f359dd2d690008c7c998",
+        "title": "Lejos de la Tierra Quemada",
+        "start": "2024-09-24T01:00:00.000Z",
+        "stop": "2024-09-24T02:58:00.000Z"
+    },
+    {
+        "id": "66e1f359dd2d690008c7c999",
+        "title": "20 años no importan",
+        "start": "2024-09-24T02:58:00.000Z",
+        "stop": "2024-09-24T04:44:00.000Z"
+    },
+    {
+        "id": "66e1f359dd2d690008c7c99a",
+        "title": "Inmersión",
+        "start": "2024-09-24T04:44:00.000Z",
+        "stop": "2024-09-24T06:55:00.000Z"
+    },
+    {
+        "id": "66edf3dd747bfa0008473ec1",
+        "title": "En busca de venganza",
+        "start": "2024-09-24T02:00:00.000Z",
+        "stop": "2024-09-24T03:51:00.000Z"
+    },
+    {
+        "id": "66edf3dd747bfa0008473ec2",
+        "title": "Terror en Siria",
+        "start": "2024-09-24T03:51:00.000Z",
+        "stop": "2024-09-24T06:03:00.000Z"
+    },
+    {
+        "id": "6660857e8ea5560008f92ab9",
+        "title": "Descubriendo Pluto TV",
+        "start": "2024-09-24T01:45:20.000Z",
+        "stop": "2024-09-24T02:20:20.000Z"
+    },
+    {
+        "id": "6660857e8ea5560008f92abb",
+        "title": "Descubriendo Pluto TV",
+        "start": "2024-09-24T02:20:20.000Z",
+        "stop": "2024-09-24T02:55:20.000Z"
+    },
+    {
+        "id": "6660857e8ea5560008f92abd",
+        "title": "Descubriendo Pluto TV",
+        "start": "2024-09-24T02:55:20.000Z",
+        "stop": "2024-09-24T03:30:20.000Z"
+    },
+    {
+        "id": "6660857e8ea5560008f92abf",
+        "title": "Descubriendo Pluto TV",
+        "start": "2024-09-24T03:30:20.000Z",
+        "stop": "2024-09-24T04:05:20.000Z"
+    },
+    {
+        "id": "6660857e8ea5560008f92ac1",
+        "title": "Descubriendo Pluto TV",
+        "start": "2024-09-24T04:05:20.000Z",
+        "stop": "2024-09-24T04:40:20.000Z"
+    },
+    {
+        "id": "6660857e8ea5560008f92ac3",
+        "title": "Descubriendo Pluto TV",
+        "start": "2024-09-24T04:40:20.000Z",
+        "stop": "2024-09-24T05:15:20.000Z"
+    },
+    {
+        "id": "6660857e8ea5560008f92ac5",
+        "title": "Descubriendo Pluto TV",
+        "start": "2024-09-24T05:15:20.000Z",
+        "stop": "2024-09-24T05:50:20.000Z"
+    },
+    {
+        "id": "6660857e8ea5560008f92ac7",
+        "title": "Descubriendo Pluto TV",
+        "start": "2024-09-24T05:50:20.000Z",
+        "stop": "2024-09-24T06:25:20.000Z"
+    },
+    {
+        "id": "66e324bb0190cb0008229e22",
+        "title": "Cuenta Regresiva (2009)",
+        "start": "2024-09-24T00:24:00.000Z",
+        "stop": "2024-09-24T02:47:00.000Z"
+    },
+    {
+        "id": "66e324bb0190cb0008229e23",
+        "title": "Apex",
+        "start": "2024-09-24T02:47:00.000Z",
+        "stop": "2024-09-24T04:38:00.000Z"
+    },
+    {
+        "id": "66e324bb0190cb0008229e24",
+        "title": "Agua Profunda",
+        "start": "2024-09-24T04:38:00.000Z",
+        "stop": "2024-09-24T06:40:00.000Z"
+    },
+    {
+        "id": "66ec9ddae4e0b40008a78657",
+        "title": "Cuidado con el Amor",
+        "start": "2024-09-24T01:49:00.000Z",
+        "stop": "2024-09-24T03:49:00.000Z"
+    },
+    {
+        "id": "66ec9ddae4e0b40008a78658",
+        "title": "El Enamorado",
+        "start": "2024-09-24T03:49:00.000Z",
+        "stop": "2024-09-24T05:34:00.000Z"
+    },
+    {
+        "id": "66ec9ddae4e0b40008a78659",
+        "title": "La Vida de Pedro Infante",
+        "start": "2024-09-24T05:34:00.000Z",
+        "stop": "2024-09-24T07:49:00.000Z"
+    },
+    {
+        "id": "66e72159a1c8920013843bfe",
+        "title": "El fantasma",
+        "start": "2024-09-24T01:10:00.000Z",
+        "stop": "2024-09-24T03:05:00.000Z"
+    },
+    {
+        "id": "66e72159a1c8920013843c06",
+        "title": "Voces inocentes",
+        "start": "2024-09-24T03:05:00.000Z",
+        "stop": "2024-09-24T05:15:00.000Z"
+    },
+    {
+        "id": "66e72159a1c8920013843c0e",
+        "title": "Terror en Siria",
+        "start": "2024-09-24T05:15:00.000Z",
+        "stop": "2024-09-24T07:27:00.000Z"
+    },
+    {
+        "id": "66edb8ba940963000804dfe7",
+        "title": "Mas allá de la sospecha",
+        "start": "2024-09-24T00:29:00.000Z",
+        "stop": "2024-09-24T02:26:00.000Z"
+    },
+    {
+        "id": "66edb8ba940963000804dfe8",
+        "title": "Peligro en la montaña",
+        "start": "2024-09-24T02:26:00.000Z",
+        "stop": "2024-09-24T04:17:00.000Z"
+    },
+    {
+        "id": "66edb8ba940963000804dfe9",
+        "title": "Rostros en la Oscuridad",
+        "start": "2024-09-24T04:17:00.000Z",
+        "stop": "2024-09-24T06:17:00.000Z"
+    },
+    {
+        "id": "6626ea9d307fa30008102f87",
+        "title": "CSI: Miami",
+        "start": "2024-09-24T01:36:00.000Z",
+        "stop": "2024-09-24T02:52:00.000Z"
+    },
+    {
+        "id": "6626ea9d307fa30008102f89",
+        "title": "CSI: Miami",
+        "start": "2024-09-24T02:52:00.000Z",
+        "stop": "2024-09-24T03:43:00.000Z"
+    },
+    {
+        "id": "6626ea9d307fa30008102f8b",
+        "title": "CSI: Miami",
+        "start": "2024-09-24T03:43:00.000Z",
+        "stop": "2024-09-24T04:33:00.000Z"
+    },
+    {
+        "id": "6626ea9d307fa30008102f8d",
+        "title": "CSI: Miami",
+        "start": "2024-09-24T04:33:00.000Z",
+        "stop": "2024-09-24T05:25:00.000Z"
+    },
+    {
+        "id": "6626ea9d307fa30008102f8f",
+        "title": "CSI: Miami",
+        "start": "2024-09-24T05:25:00.000Z",
+        "stop": "2024-09-24T06:16:00.000Z"
+    },
+    {
+        "id": "668f0ee3a3c41d0008c777fa",
+        "title": "NCIS",
+        "start": "2024-09-24T01:16:00.000Z",
+        "stop": "2024-09-24T02:07:00.000Z"
+    },
+    {
+        "id": "668f0ee3a3c41d0008c777fc",
+        "title": "NCIS",
+        "start": "2024-09-24T02:07:00.000Z",
+        "stop": "2024-09-24T02:57:00.000Z"
+    },
+    {
+        "id": "668f0ee3a3c41d0008c777fe",
+        "title": "NCIS",
+        "start": "2024-09-24T02:57:00.000Z",
+        "stop": "2024-09-24T03:48:00.000Z"
+    },
+    {
+        "id": "668f0ee3a3c41d0008c77800",
+        "title": "NCIS",
+        "start": "2024-09-24T03:48:00.000Z",
+        "stop": "2024-09-24T04:40:00.000Z"
+    },
+    {
+        "id": "668f0ee3a3c41d0008c77802",
+        "title": "NCIS",
+        "start": "2024-09-24T04:40:00.000Z",
+        "stop": "2024-09-24T05:32:00.000Z"
+    },
+    {
+        "id": "668f0ee3a3c41d0008c77804",
+        "title": "NCIS",
+        "start": "2024-09-24T05:32:00.000Z",
+        "stop": "2024-09-24T06:24:00.000Z"
+    },
+    {
+        "id": "66e9d591e60c010008558233",
+        "title": "Alarm for Cobra 11",
+        "start": "2024-09-24T01:44:00.000Z",
+        "stop": "2024-09-24T02:36:00.000Z"
+    },
+    {
+        "id": "66e9d591e60c010008558234",
+        "title": "Tulsa King",
+        "start": "2024-09-24T02:36:00.000Z",
+        "stop": "2024-09-24T03:26:00.000Z"
+    },
+    {
+        "id": "66e9d591e60c010008558235",
+        "title": "Estación Berlin",
+        "start": "2024-09-24T03:26:00.000Z",
+        "stop": "2024-09-24T04:29:00.000Z"
+    },
+    {
+        "id": "66e9d591e60c010008558236",
+        "title": "Estación Berlin",
+        "start": "2024-09-24T04:29:00.000Z",
+        "stop": "2024-09-24T05:32:00.000Z"
+    },
+    {
+        "id": "66e9d591e60c010008558237",
+        "title": "Alarm for Cobra 11",
+        "start": "2024-09-24T05:32:00.000Z",
+        "stop": "2024-09-24T06:28:00.000Z"
+    },
+    {
+        "id": "66e9d6c0e4e0b40008a0857c",
+        "title": "Broadchurch",
+        "start": "2024-09-24T01:38:00.000Z",
+        "stop": "2024-09-24T02:38:00.000Z"
+    },
+    {
+        "id": "66e9d6c0e4e0b40008a0857d",
+        "title": "Broadchurch",
+        "start": "2024-09-24T02:38:00.000Z",
+        "stop": "2024-09-24T03:38:00.000Z"
+    },
+    {
+        "id": "66e9d6c0e4e0b40008a0857e",
+        "title": "Tulsa King",
+        "start": "2024-09-24T03:38:00.000Z",
+        "stop": "2024-09-24T04:28:00.000Z"
+    },
+    {
+        "id": "66e9d6c0e4e0b40008a0857f",
+        "title": "Broadchurch",
+        "start": "2024-09-24T04:28:00.000Z",
+        "stop": "2024-09-24T05:28:00.000Z"
+    },
+    {
+        "id": "66e9d6c0e4e0b40008a08580",
+        "title": "Broadchurch",
+        "start": "2024-09-24T05:28:00.000Z",
+        "stop": "2024-09-24T06:28:00.000Z"
+    },
+    {
+        "id": "66da00b0167a8b000805866c",
+        "title": "Doc Martin",
+        "start": "2024-09-24T01:21:00.000Z",
+        "stop": "2024-09-24T02:18:00.000Z"
+    },
+    {
+        "id": "66da00b0167a8b000805866d",
+        "title": "Doc Martin",
+        "start": "2024-09-24T02:18:00.000Z",
+        "stop": "2024-09-24T03:14:00.000Z"
+    },
+    {
+        "id": "66da00b0167a8b000805866e",
+        "title": "Doc Martin",
+        "start": "2024-09-24T03:14:00.000Z",
+        "stop": "2024-09-24T04:10:00.000Z"
+    },
+    {
+        "id": "66da00b0167a8b000805866f",
+        "title": "Doc Martin",
+        "start": "2024-09-24T04:10:00.000Z",
+        "stop": "2024-09-24T05:06:00.000Z"
+    },
+    {
+        "id": "66da00b0167a8b0008058670",
+        "title": "Doc Martin",
+        "start": "2024-09-24T05:06:00.000Z",
+        "stop": "2024-09-24T06:01:00.000Z"
+    },
+    {
+        "id": "66ec5d125e4a6e0008b1346f",
+        "title": "Princess Hours",
+        "start": "2024-09-24T00:59:00.000Z",
+        "stop": "2024-09-24T02:19:00.000Z"
+    },
+    {
+        "id": "66ec5d125e4a6e0008b13470",
+        "title": "Princess Hours",
+        "start": "2024-09-24T02:19:00.000Z",
+        "stop": "2024-09-24T03:38:00.000Z"
+    },
+    {
+        "id": "66ec5d125e4a6e0008b13471",
+        "title": "Princess Hours",
+        "start": "2024-09-24T03:38:00.000Z",
+        "stop": "2024-09-24T04:48:00.000Z"
+    },
+    {
+        "id": "66ec5d125e4a6e0008b13472",
+        "title": "Princess Hours",
+        "start": "2024-09-24T04:48:00.000Z",
+        "stop": "2024-09-24T06:04:00.000Z"
+    },
+    {
+        "id": "66c8f3155a8be4000808ecc2",
+        "title": "Guardianes de la Bahía",
+        "start": "2024-09-24T01:13:00.000Z",
+        "stop": "2024-09-24T02:03:00.000Z"
+    },
+    {
+        "id": "66c8f3155a8be4000808ecc3",
+        "title": "Guardianes de la Bahía",
+        "start": "2024-09-24T02:03:00.000Z",
+        "stop": "2024-09-24T02:54:00.000Z"
+    },
+    {
+        "id": "66c8f3155a8be4000808ecc4",
+        "title": "Guardianes de la Bahía",
+        "start": "2024-09-24T02:54:00.000Z",
+        "stop": "2024-09-24T03:45:00.000Z"
+    },
+    {
+        "id": "66c8f3155a8be4000808ecc5",
+        "title": "Guardianes de la Bahía",
+        "start": "2024-09-24T03:45:00.000Z",
+        "stop": "2024-09-24T04:36:00.000Z"
+    },
+    {
+        "id": "66c8f3155a8be4000808ecc6",
+        "title": "Guardianes de la Bahía",
+        "start": "2024-09-24T04:36:00.000Z",
+        "stop": "2024-09-24T05:16:00.000Z"
+    },
+    {
+        "id": "66c8f3155a8be4000808ecc7",
+        "title": "Guardianes de la Bahía",
+        "start": "2024-09-24T05:16:00.000Z",
+        "stop": "2024-09-24T06:07:00.000Z"
+    }
+]
